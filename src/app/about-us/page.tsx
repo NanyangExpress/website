@@ -2,76 +2,106 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-export default function HeroSection() {
+export default function AboutUs() {
     return (
         <>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-5 px-5 md:px-10 mb-8">
-                {/* Left Column: Image with Text Overlay */}
-                <div className="relative md:col-span-1">
-                    <Image
-                        className="w-full h-full object-cover rounded-md"
-                        width={1400}
-                        height={1400}
-                        src="/assets/hero-section-1.png"
-                        alt="Left Image"
-                    />
-                    <div className="absolute bottom-0 left-0 p-5 lg:p-8 w-full h-full flex flex-col justify-end items-left text-white">
-                        <h2 className="text-xl lg:text-3xl font-bold mb-1 md:mb-2">
-                            Nanyang Express
-                        </h2>
-                        <p className="text-xs lg:text-lg mb-2 lg:mb-4 max-w-72 lg:max-w-md">
-                            Discover flawless logistics solutions for your t-shirts, lanyards, and tote
-                            bags
+            <style jsx global>{`
+                    body {
+                        background-color: black; /* Set the background color of the body to black */
+                    }
+                `}</style>
+            <div className="container mx-auto my-5 px-8 bg-black rounded-md">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    {/* Left Column: Title and Description */}
+                    <div>
+                        <h1 className="text-5xl font-bold mb-6 text-white mt-40">About Us</h1>
+                        <p className="text-sm md:text-md lg:text-lg mb-4 text-white">
+                            Nanyang XPress is a dynamic Singaporean venture leading the charge in AI-powered custom merchandise. We dare say that our catalog is a one stop destination for everything you need.
                         </p>
-                        <Link href='/nanyang_express' className="bg-white text-xs text-center lg:text-sm text-black font-semibold rounded-md px-2 lg:px-4 py-1 lg:py-2 max-w-36 lg:max-w-44 shadow-md hover:text-white hover:bg-blue-950" passHref>
-                            Shop Now
-                        </Link>
+                        {/* <p className="text-sm md:text-md lg:text-lg mb-4">
+                            Affordable. 
+                        </p>
+                        <p className="text-sm md:text-md lg:text-lg mb-4">
+                            Innovation. 
+                        </p>
+                        <p className="text-sm md:text-md lg:text-lg mb-4">
+                            Quality.
+                        </p> */}
+                    </div>
+
+                    {/* Right Column: Image */}
+                    <div className="relative h-64 md:h-auto mt-20">
+                        <Image
+                            className="w-full h-full object-cover rounded-md"
+                            src="/assets/about-us-1.png"
+                            alt="About Us Image"
+                            width={700}
+                            height={700}
+                        />
+                    </div>
+                    {/* Mission Section */}
+                    <div className="bg-[#b67D43] p-8 rounded-md mt-8">
+                        <h2 className="text-5xl font-bold mb-0 text-center mt-2">Innovation</h2>
+                        <p className="text-sm md:text-md lg:text-lg mb-4 text-center ">
+                            Quality Goods that are Cost Savings                       
+                        </p>
+                    </div>
+
+                    {/* Vision Section */}
+                    <div className="bg-[#b67D43] p-8 rounded-md mt-8">
+                        <h2 className="text-5xl font-bold mb-0 text-center mt-2">Customization</h2>
+                        <p className="text-sm md:text-md lg:text-lg mb-4 text-center ">
+                            Brand Your Own Merchandise                       
+                        </p>
                     </div>
                 </div>
-
-                {/* Right Column: Stacked Images with Text Overlays */}
-                <div className="grid grid-cols-1 gap-4 md:grid-rows-2">
-                    {/* Right Image 1 */}
-                    <div className="relative md:col-span-1">
-                        <Image
-                            className="w-full h-full object-cover rounded-md"
-                            width={1400}
-                            height={1400}
-                            src="/assets/hero-section-2.png"
-                            alt="Nanyang Print"
-                        />
-                        <div className="absolute bottom-0 left-0 p-5 lg:p-8 w-full h-full flex flex-col justify-end items-left text-white">
-                            <h2 className="text-xl lg:text-3xl font-bold mb-1 md:mb-2">
-                                Nanyang Print
-                            </h2>
-                            <p className="text-xs lg:text-lg mb-2 lg:mb-4 max-w-72 lg:max-w-md">
-                                Explore impeccable logistics solutions for your flyers and posters
+                {/* Your Trusted Partner Section */}
+                <div className="mt-8">
+                    <h2 className="text-3xl font-bold mb-6">Your Trusted Partner</h2>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                        {/* Column 1 */}
+                        <div>
+                            <Image
+                                className="w-full h-40 object-cover rounded-md"
+                                src="/assets/partner-1.png"
+                                width={300}
+                                height={300}
+                                alt="Partner 1"
+                            ></Image>
+                            <h3 className="text-xl font-bold my-4 text-white text-center">Transparency & Clarity</h3>
+                            <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
+                                We provide detailed descriptions and specifications of the logistics items available, ensuring that you have all the necessary information to make an informed decision. Additionally, we are committed to providing transparent pricing, breaking down the costs involved and any applicable fees, so there are no surprises or hidden charges.
                             </p>
-                            <Link href='/nanyang_print' className="bg-white text-xs text-center lg:text-sm text-black font-semibold rounded-md px-2 lg:px-4 py-1 lg:py-2 max-w-36 lg:max-w-44 shadow-md hover:text-white hover:bg-blue-950" passHref>
-                            Shop Now
-                        </Link>
                         </div>
-                    </div>
 
-                    {/* Right Image 2 */}
-                    <div className="relative md:col-span-1">
-                        <Image
-                            className="w-full h-full object-cover rounded-md"
-                            width={1400}
-                            height={1400}
-                            src="/assets/hero-section-3.png"
-                            alt="Nanyang Award"
-                        />
-                        <div className="absolute bottom-0 left-0 p-5 lg:p-8 w-full h-full flex flex-col justify-end items-left text-white">
-                            <h2 className="text-xl lg:text-3xl font-bold mb-1 md:mb-2">
-                                Nanyang Award
-                            </h2>
-                            <p className="text-xs lg:text-lg mb-2 lg:mb-4 max-w-72 lg:max-w-md">
-                                Uncover top-tier logistics solutions for your metals and trophies
+                        {/* Column 2 */}
+                        <div>
+                            <Image
+                                className="w-full h-40 object-cover rounded-md"
+                                src="/assets/partner-2.png"
+                                alt="Partner 2"
+                                width={700}
+                                height={700}
+                            />
+                            <h3 className="text-xl font-bold my-4 text-white text-center">AI Focused</h3>
+                            <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
+                                At Nanyang Express, we have established partnerships with suppliers and service providers while using AI to replace human labour, allowing us to offer items at cost prices.
                             </p>
-                            <Link href='/nanyang_award' className="bg-white text-xs text-center lg:text-sm text-black font-semibold rounded-md px-2 lg:px-4 py-1 lg:py-2 max-w-36 lg:max-w-44 shadow-md hover:text-white hover:bg-blue-950" passHref>
-                                Shop Now
-                            </Link>
+                        </div>
+
+                        {/* Column 3 */}
+                        <div>
+                            <Image
+                                className="w-full h-40 object-cover rounded-md"
+                                src="/assets/partner-3.png"
+                                alt="Partner 3"
+                                width={700}
+                                height={700}
+                            />
+                            <h3 className="text-xl font-bold my-4 text-white text-center">Customised Solutions</h3>
+                            <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
+                                We understand that every event is unique, and that's why we offer customized logistics solutions. By tailoring our services to their needs, we ensure that clients only pay for what they need, eliminating unnecessary expenses and providing a hassle-free experience.
+                            </p>
                         </div>
                     </div>
                 </div>

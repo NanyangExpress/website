@@ -1,11 +1,11 @@
-import HeroSection from "@/components/home/hero-section";
+import AboutUs from "@/app/about-us/page";
 
 export default function Home() {
   
   return (
     <>  
       <main>
-        <HeroSection/>
+        <AboutUs/>
       </main>
     </>
   )
