@@ -1,0 +1,3450 @@
+{
+  "product": {
+    "nanyang_awards": {
+      "medals": {
+        "items": [
+          {
+            "id": 1,
+            "name": "design 1",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "65mm by 4mm",
+            "customisable area": "37mm",
+            "image": "/images/medals/regular model 1.png",
+            "category": "regular"
+          },
+          {
+            "id": 2,
+            "name": "design 2",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "65mm by 4mm",
+            "customisable area": "41mm",
+            "image": "/images/medals/regular model 2.png",
+            "category": "regular"
+          },
+          {
+            "id": 3,
+            "name": "design 3",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "65mm by 4mm",
+            "customisable area": "40mm",
+            "image": "/images/medals/regular model 3.png",
+            "category": "regular"
+          },
+          {
+            "id": 4,
+            "name": "design 4",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "95mm by 60mm by 4mm",
+            "customisable area": "37mm",
+            "image": "/images/medals/regular model 4.png",
+            "category": "regular"
+          },
+          {
+            "id": 5,
+            "name": "design 5",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "68mm by 4mm",
+            "customisable area": "38mm",
+            "image": "/images/medals/regular model 5.png",
+            "category": "regular"
+          },
+          {
+            "id": 6,
+            "name": "design 6",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "68mm by 4mm",
+            "customisable area": "37mm",
+            "image": "/images/medals/regular model 6.png",
+            "category": "regular"
+          },
+          {
+            "id": 7,
+            "name": "design 7",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "65mm by 5mm",
+            "customisable area": "38mm",
+            "image": "/images/medals/regular model 7.png",
+            "category": "regular"
+          },
+          {
+            "id": 8,
+            "name": "design 8",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "70mm by 4mm",
+            "customisable area": "40mm",
+            "image": "/images/medals/regular model 8.png",
+            "category": "regular"
+          },
+          {
+            "id": 9,
+            "name": "design 9",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "68mm by 4mm",
+            "customisable area": "37mm",
+            "image": "/images/medals/regular model 9.png",
+            "category": "regular"
+          },
+          {
+            "id": 10,
+            "name": "design 10",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "68mm by 4mm",
+            "customisable area": "37mm",
+            "image": "/images/medals/regular model 10.png",
+            "category": "regular"
+          },
+          {
+            "id": 1,
+            "name": "design 1",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "65mm by 4mm",
+            "customisable area": "38mm",
+            "image": "/images/medals/premium model 1.png",
+            "category": "premium"
+          },
+          {
+            "id": 2,
+            "name": "design 2",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "65mm by 4mm",
+            "customisable area": "38mm",
+            "image": "/images/medals/premium model 2.png",
+            "category": "premium"
+          },
+          {
+            "id": 3,
+            "name": "design 3",
+            "description": "Our very new collection of exquisite medal designs that transcend the ordinary! Each piece shall be a testament to artistry and craftsmanship. Elevate your moments of achievement, recognition, and celebration with our meticulously crafted medals, designed to make every occasion truly exceptional!",
+            "dimensions": "65mm by 4mm",
+            "customisable area": "38mm",
+            "image": "/images/medals/premium model 3.png",
+            "category": "premium"
+          }
+        ],
+        "price": {
+          "regular": [
+            { "<10 pieces": 9.9 },
+            { "10 - 19 pieces": 9.4 },
+            { "20 - 29 pieces": 8.9 },
+            { "30 - 39 pieces": 8.4 },
+            { "40 - 49 pieces": 8.0 },
+            { "50 - 75 pieces": 7.6 },
+            { "76 - 99 pieces": 7.3 },
+            { "100 - 150 pieces": 7.0 },
+            { "151 - 199 pieces": 6.7 },
+            { "200 - 299 pieces": 6.4 },
+            { "300 - 399 pieces": 6.2 },
+            { ">399 pieces": 6.0 }
+          ],
+          "premium": [
+            { "<10 pieces": 12.9 },
+            { "10 - 19 pieces": 12.4 },
+            { "20 - 29 pieces": 11.9 },
+            { "30 - 39 pieces": 11.4 },
+            { "40 - 49 pieces": 11.0 },
+            { "50 - 75 pieces": 10.6 },
+            { "76 - 99 pieces": 10.3 },
+            { "100 - 150 pieces": 10.0 },
+            { "151 - 199 pieces": 9.7 },
+            { "200 - 299 pieces": 9.4 },
+            { "300 - 399 pieces": 9.2 },
+            { ">399 pieces": 9.0 }
+          ]
+        },
+        "file_upload_quantity": 1
+      },
+      "trophies": {
+        "items": [
+          {
+            "id": 1,
+            "name": "Design 1",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "1A",
+                "dimensions": "45cm by 20cm",
+                "price": 55
+              },
+              {
+                "id": 2,
+                "name": "1B",
+                "dimensions": "40cm by 18cm",
+                "price": 45
+              },
+              {
+                "id": 3,
+                "name": "1C",
+                "dimensions": "35cm by 16cm",
+                "price": 35
+              },
+              {
+                "id": 4,
+                "name": "1D",
+                "dimensions": "32.5cm by 14cm",
+                "price": 28
+              },
+              {
+                "id": 5,
+                "name": "1E",
+                "dimensions": "29cm by 13cm",
+                "price": 20
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Design 2",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold", "Silver", "Bronze"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "2A",
+                "dimensions": "50cm by 23.5cm",
+                "price": 92
+              },
+              {
+                "id": 2,
+                "name": "2B",
+                "dimensions": "45cm by 20.5cm",
+                "price": 82
+              },
+              {
+                "id": 3,
+                "name": "2C",
+                "dimensions": "40cm by 17.5cm",
+                "price": 72
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Design 3",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold", "Silver", "Bronze"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 9,
+                "name": "3A",
+                "dimensions": "55cm by 26cm",
+                "price": 105
+              },
+              {
+                "id": 10,
+                "name": "3B",
+                "dimensions": "49cm by 22cm",
+                "price": 85
+              },
+              {
+                "id": 11,
+                "name": "3C",
+                "dimensions": "45cm by 20cm",
+                "price": 68
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Design 4",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold", "Silver", "Bronze"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "4A",
+                "dimensions": "51cm by 27cm",
+                "price": 75
+              },
+              {
+                "id": 2,
+                "name": "4B",
+                "dimensions": "47cm by 22cm",
+                "price": 60
+              },
+              {
+                "id": 3,
+                "name": "4C",
+                "dimensions": "42cm by 20cm",
+                "price": 50
+              },
+              {
+                "id": 4,
+                "name": "4D",
+                "dimensions": "38cm by 15cm",
+                "price": 40
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "name": "Design 5",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 16,
+                "name": "5A",
+                "dimensions": "37cm by 18cm",
+                "price": 42
+              },
+              {
+                "id": 17,
+                "name": "5B",
+                "dimensions": "33cm by 16cm",
+                "price": 35
+              },
+              {
+                "id": 18,
+                "name": "5C",
+                "dimensions": "29cm by 14cm",
+                "price": 27
+              },
+              {
+                "id": 19,
+                "name": "5D",
+                "dimensions": "26cm by 13cm",
+                "price": 19
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Design 6",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "6A",
+                "dimensions": "45cm by 18cm",
+                "price": 45
+              },
+              {
+                "id": 2,
+                "name": "6B",
+                "dimensions": "40cm by 16cm",
+                "price": 38
+              },
+
+              {
+                "id": 3,
+                "name": "6C",
+                "dimensions": "35cm by 14cm",
+                "price": 30
+              },
+              {
+                "id": 4,
+                "name": "6D",
+                "dimensions": "32cm by 13cm",
+                "price": 22
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Design 7",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "7A",
+                "dimensions": "32cm by 15cm",
+                "price": 25
+              },
+              {
+                "id": 2,
+                "name": "7B",
+                "dimensions": "29cm by 14cm",
+                "price": 21
+              },
+              {
+                "id": 3,
+                "name": "7C",
+                "dimensions": "28cm by 13cm",
+                "price": 17
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Design 8",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "8A",
+                "dimensions": "72cm by 36cm",
+                "price": 190
+              },
+              {
+                "id": 2,
+                "name": "8B",
+                "dimensions": "65cm by 34cm",
+                "price": 160
+              },
+              {
+                "id": 3,
+                "name": "8C",
+                "dimensions": "60cm by 32cm",
+                "price": 130
+              },
+              {
+                "id": 4,
+                "name": "8D",
+                "dimensions": "54cm by 26cm",
+                "price": 75
+              },
+              {
+                "id": 5,
+                "name": "8E",
+                "dimensions": "48cm by 23cm",
+                "price": 65
+              },
+              {
+                "id": 6,
+                "name": "8F",
+                "dimensions": "42cm by 17cm",
+                "price": 55
+              },
+              {
+                "id": 7,
+                "name": "8G",
+                "dimensions": "37cm by 16cm",
+                "price": 45
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Design 9",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "9A",
+                "dimensions": "54cm by 28cm",
+                "price": 85
+              },
+              {
+                "id": 2,
+                "name": "9B",
+                "dimensions": "47cm by 24cm",
+                "price": 75
+              },
+              {
+                "id": 3,
+                "name": "9C",
+                "dimensions": "42cm by 21cm",
+                "price": 65
+              },
+              {
+                "id": 4,
+                "name": "9D",
+                "dimensions": "37cm by 18cm",
+                "price": 55
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Design 10",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 38,
+                "name": "10A",
+                "dimensions": "52cm by 25cm",
+                "price": 65
+              },
+              {
+                "id": 39,
+                "name": "10B",
+                "dimensions": "45cm by 22cm",
+                "price": 55
+              },
+              {
+                "id": 40,
+                "name": "10C",
+                "dimensions": "41cm by 18cm",
+                "price": 45
+              },
+              {
+                "id": 41,
+                "name": "10D",
+                "dimensions": "36cm by 16cm",
+                "price": 35
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Design 11",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold", "Silver", "Bronze"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "11A",
+                "dimensions": "63cm by 33cm",
+                "price": 140
+              },
+              {
+                "id": 2,
+                "name": "11B",
+                "dimensions": "57cm by 30cm",
+                "price": 110
+              },
+              {
+                "id": 3,
+                "name": "11C",
+                "dimensions": "50cm by 27cm",
+                "price": 85
+              },
+              {
+                "id": 4,
+                "name": "11D",
+                "dimensions": "45cm by 23cm",
+                "price": 65
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Design 12",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "12A",
+                "dimensions": "94cm by 31cm",
+                "price": 240
+              },
+              {
+                "id": 2,
+                "name": "12B",
+                "dimensions": "89cm by 27cm",
+                "price": 220
+              },
+              {
+                "id": 3,
+                "name": "12C",
+                "dimensions": "85cm by 23cm",
+                "price": 200
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Design 13",
+            "description": "Introducing a collection of unparalleled trophy designs that redefine the essence of recognition and achievement. Each trophy is a testament to the fusion of artistic vision and meticulous craftsmanship, crafted to transform your milestones into timeless and captivating memories!",
+            "colors": ["Gold"],
+            "lead_time": [
+              "STANDARD - 18 WORKING DAYS",
+              "EXPRESS - 12 WORKING DAYS",
+              "SUPREME - 5 WORKING DAYS"
+            ],
+            "models": [
+              {
+                "id": 1,
+                "name": "13A",
+                "dimensions": "52cm by 25cm",
+                "price": 65
+              },
+              {
+                "id": 2,
+                "name": "13B",
+                "dimensions": "45cm by 21cm",
+                "price": 55
+              },
+              {
+                "id": 3,
+                "name": "13C",
+                "dimensions": "39cm by 19cm",
+                "price": 42
+              },
+              {
+                "id": 4,
+                "name": "13D",
+                "dimensions": "34cm by 17cm",
+                "price": 32
+              }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      },
+      "certificates": {
+        "items": [
+          {
+            "dimensions": "A4 size",
+            "description": "INDIVIDUALISED NAMES, 250GSM LINEN PAPER",
+            "price": [
+              { "<10 pieces": "CONTACT US FOR MORE INFORMATION!" },
+              { "10 - 19 pieces": "CONTACT US FOR MORE INFORMATION!" },
+              { "20 - 29 pieces": 2.1 },
+              { "30 - 39 pieces": 1.3 },
+              { "40 - 49 pieces": 1.1 },
+              { "50 - 75 pieces": 1.0 },
+              { "76 - 99 pieces": 1.0 },
+              { "100 - 150 pieces": 70.9 },
+              { "151 - 199 pieces": 0.8 },
+              { "200 - 299 pieces": 0.8 },
+              { "300 - 399 pieces": 0.7 },
+              { ">399 pieces": 0.65 }
+            ]
+          }
+        ]
+      },
+      "file_upload_quantity": 1
+    },
+    "nanyang_express": {
+      "apparels": {
+        "items": [
+          {
+            "name": "Cotton T-Shirt",
+            "description": "Classic comfort in breathable cotton.",
+            "printable": true,
+            "printing_method": [
+              "MULTI COLOR EMBROIDERY",
+              "HEAT TRANSFER - DIRECT TO FILM",
+              "SILK SCREEN",
+              "EMBROIDERY"
+            ],
+            "quantity": [
+              "20 - 29 pieces",
+              "30 - 49 pieces",
+              "50 - 75 pieces",
+              "76 - 99 pieces",
+              "100 - 150 pieces",
+              "151 - 199 pieces",
+              "200 - 299 pieces",
+              "300 - 399 pieces",
+              ">399 pieces"
+            ],
+            "size": ["A3", "A4", "A5"],
+            "types": [
+              {
+                "name": "REGULAR 180GSM",
+                "product_tag": "Cotton T-shirt REGULAR 180GSM",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#000000",
+                      "#38351C",
+                      "#181937",
+                      "#4F4A4C",
+                      "#B0AAAA",
+                      "#837264",
+                      "#58647A",
+                      "#6A0E16",
+                      "#C20204",
+                      "#E8ADAE",
+                      "#8E7AA9",
+                      "#E6B928",
+                      "#FFFFFF"
+                    ]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $7.40" },
+                  { "30 - 49 pieces": "From $5.90" },
+                  { "50 - 75 pieces": "From $5.40" },
+                  { "76 - 99 pieces": "From $5.15" },
+                  { "100 - 150 pieces": "From $4.95" },
+                  { "151 - 199 pieces": "From $4.75" },
+                  { "200 - 299 pieces": "From $4.55" },
+                  { "300 - 399 pieces": "From $4.45" },
+                  { ">399 pieces": "From $4.40" }
+                ],
+                "images": [
+                  "/images/Cotton/Regular 180GSM Cotton/Regular 180GSM Cotton 1.jpg",
+                  "/images/Cotton/Regular 180GSM Cotton/Regular 180GSM Cotton 2.jpg",
+                  "/images/Cotton/Regular 180GSM Cotton/Regular 180GSM Cotton 3.jpg"
+                ]
+              },
+              {
+                "name": "PREMIUM 180GSM",
+                "product_tag": "Cotton T-shirt PREMIUM 180GSM",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#CD001C",
+                      "#F15204",
+                      "#ECCE4C",
+                      "#A1D386",
+                      "#FFFFFF",
+                      "#000000",
+                      "#334CAE",
+                      "#221D35"
+                    ]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $9.05" },
+                  { "30 - 49 pieces": "From $7.30" },
+                  { "50 - 75 pieces": "From $6.60" },
+                  { "76 - 99 pieces": "From $6.30" },
+                  { "100 - 150 pieces": "From $6.05" },
+                  { "151 - 199 pieces": "From $5.80" },
+                  { "200 - 299 pieces": "From $5.60" },
+                  { "300 - 399 pieces": "From $5.50" },
+                  { ">399 pieces": "From $5.40" }
+                ],
+                "images": [
+                  "/images/Cotton/Premium 180GSM Cotton/Premium 180GSM Cotton 1.jpg",
+                  "/images/Cotton/Premium 180GSM Cotton/Premium 180GSM Cotton 2.jpg"
+                ]
+              },
+              {
+                "name": "REGULAR 200GSM",
+                "product_tag": "Cotton T-shirt REGULAR 200GSM",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#FFFFFF",
+                      "#18182D",
+                      "#DD9CA4",
+                      "#B0B0B0",
+                      "#8ED0EA",
+                      "#636168",
+                      "#E0D4C4",
+                      "#E7B5AE",
+                      "#C51417",
+                      "#264BA5",
+                      "#1C1D22",
+                      "#948478",
+                      "#DF4E05",
+                      "#129C73",
+                      "#264BA5"
+                    ]
+                  }
+                ],
+                "printing_method": [
+                  "MULTI COLOR EMBROIDERY",
+                  "HEAT TRANSFER - DIRECT TO FILM",
+                  "SILK SCREEN",
+                  "EMBROIDERY"
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $8.90" },
+                  { "30 - 49 pieces": "From $7.10" },
+                  { "50 - 75 pieces": "From $6.40" },
+                  { "76 - 99 pieces": "From $6.10" },
+                  { "100 - 150 pieces": "From $5.85" },
+                  { "151 - 199 pieces": "From $5.60" },
+                  { "200 - 299 pieces": "From $5.40" },
+                  { "300 - 399 pieces": "From $5.30" },
+                  { ">399 pieces": "From $5.20" }
+                ],
+                "images": [
+                  "/images/Cotton/Regular 200GSM Cotton/Regular 200GSM Cotton 1.jpg",
+                  "/images/Cotton/Regular 200GSM Cotton/Regular 200GSM Cotton 2.jpg",
+                  "/images/Cotton/Regular 200GSM Cotton/Regular 200GSM Cotton 3.jpg"
+                ]
+              },
+              {
+                "name": "PREMIUM 260GSM",
+                "product_tag": "Cotton T-shirt PREMIUM 260GSM",
+                "custom_options": {
+                  "color": [
+                    "#FFFFFF",
+                    "#201E21",
+                    "#53515E",
+                    "#F56938",
+                    "#115B68",
+                    "#386EC7",
+                    "#53D0D6",
+                    "#E3D7C9",
+                    "#F4C53A",
+                    "#F8CBC6",
+                    "#D71925"
+                  ]
+                },
+                "printing_method": [
+                  "MULTI COLOR EMBROIDERY",
+                  "HEAT TRANSFER - DIRECT TO FILM",
+                  "SILK SCREEN",
+                  "EMBROIDERY"
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $11.10" },
+                  { "30 - 49 pieces": "From $8.90" },
+                  { "50 - 75 pieces": "From $8.10" },
+                  { "76 - 99 pieces": "From $7.70" },
+                  { "100 - 150 pieces": "From $7.40" },
+                  { "151 - 199 pieces": "From $7.10" },
+                  { "200 - 299 pieces": "From $6.80" },
+                  { "300 - 399 pieces": "From $6.70" },
+                  { ">399 pieces": "From $6.60" }
+                ],
+                "images": [
+                  "/images/Cotton/Regular 260GSM Cotton/Regular 260GSM Cotton 1.jpg",
+                  "/images/Cotton/Regular 260GSM Cotton/Regular 260GSM Cotton 2.jpg",
+                  "/images/Cotton/Regular 260GSM Cotton/Regular 260GSM Cotton 3.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Dri-fit Singlet",
+            "description": "Stay cool and dry with moisture-wicking technology.",
+            "printable": true,
+            "printing_method": [
+              "MULTI COLOR EMBROIDERY",
+              "HEAT TRANSFER - DIRECT TO FILM",
+              "SILK SCREEN"
+            ],
+            "quantity": [
+              "20 - 29 pieces",
+              "30 - 49 pieces",
+              "50 - 75 pieces",
+              "76 - 99 pieces",
+              "100 - 150 pieces",
+              "151 - 199 pieces",
+              "200 - 299 pieces",
+              "300 - 399 pieces",
+              ">399 pieces"
+            ],
+            "size": ["A3", "A4", "A5"],
+            "types": [
+              {
+                "name": "NORMAL 100% POLYESTER",
+                "product_tag": "Dri-Fit Singlet REGULAR",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#FFFFFF",
+                      "#C7ED3C",
+                      "#016A66",
+                      "#FC752B",
+                      "#DE0226",
+                      "#5F9FDC",
+                      "#0190CC",
+                      "#0155A0",
+                      "#FBCD05",
+                      "#B0B4BD",
+                      "#000000"
+                    ]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $7.10" },
+                  { "30 - 49 pieces": "From $5.70" },
+                  { "50 - 75 pieces": "From $5.20" },
+                  { "76 - 99 pieces": "From $5.00" },
+                  { "100 - 150 pieces": "From $4.80" },
+                  { "151 - 199 pieces": "From $4.60" },
+                  { "200 - 299 pieces": "From $4.40" },
+                  { "300 - 399 pieces": "From $4.30" },
+                  { ">399 pieces": "From $4.25" }
+                ],
+                "images": [
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 1.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 2.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 3.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 4.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 5.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 6.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 7.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 8.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 9.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 10.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 11.jpg",
+                  "/images/Dri-Fit/Regular Drifit Singlet/Regular Drifit Singlet 12.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Dri-fit T-Shirt (Adult)",
+            "description": "Stay cool and dry with moisture-wicking technology.",
+            "printable": true,
+            "printing_method": [
+              "MULTI COLOR EMBROIDERY",
+              "HEAT TRANSFER - DIRECT TO FILM",
+              "SILK SCREEN"
+            ],
+            "quantity": [
+              "20 - 29 pieces",
+              "30 - 49 pieces",
+              "50 - 75 pieces",
+              "76 - 99 pieces",
+              "100 - 150 pieces",
+              "151 - 199 pieces",
+              "200 - 299 pieces",
+              "300 - 399 pieces",
+              ">399 pieces"
+            ],
+            "size": ["A3", "A4", "A5"],
+            "types": [
+              {
+                "name": "REGULAR DRI-FIT (EYELET)",
+                "product_tag": "Dri-Fit T-shirt REGULAR",
+                "custom_options": {
+                  "color": [
+                    "#FFFFFF",
+                    "#BACFE4",
+                    "#53A3D0",
+                    "#425EA8",
+                    "#303249",
+                    "#EFD1DB",
+                    "#C22127",
+                    "#E87333",
+                    "#875E98",
+                    "#D3456D",
+                    "#EAD443",
+                    "#C8DA74",
+                    "#A8C94B",
+                    "#000000"
+                  ]
+                },
+                "basic_price": [
+                  { "20 - 29 pieces": "From $6.90" },
+                  { "30 - 49 pieces": "From $5.55" },
+                  { "50 - 75 pieces": "From $5.05" },
+                  { "76 - 99 pieces": "From $4.80" },
+                  { "100 - 150 pieces": "From $4.60" },
+                  { "151 - 199 pieces": "From $4.45" },
+                  { "200 - 299 pieces": "From $4.30" },
+                  { "300 - 399 pieces": "From $4.20" },
+                  { ">399 pieces": "From $4.10" }
+                ],
+                "images": [
+                  "/images/Dri-Fit/Regular Drifit/Regular Drifit 2.jpeg",
+                  "/images/Dri-Fit/Regular Drifit/Regular Drifit 3.jpg",
+                  "/images/Dri-Fit/Regular Drifit/Regular Drifit 4.jpg",
+                  "/images/Dri-Fit/Regular Drifit/Regular Drifit 5.jpg",
+                  "/images/Dri-Fit/Regular Drifit/Regular Drifit Single Piece.jpg"
+                ]
+              },
+              {
+                "name": "PREMIUM DRI FIT (INTERLOCKED WITH SPANDEX)",
+                "product_tag": "Dri-Fit T-shirt PREMIUM",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#FFFFFF",
+                      "#81FE1A",
+                      "#FC4012",
+                      "#2CA2F6",
+                      "#C10105",
+                      "#2B67F9",
+                      "#0F1A50",
+                      "#507085",
+                      "#000000"
+                    ]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $9.05" },
+                  { "30 - 49 pieces": "From $7.05" },
+                  { "50 - 75 pieces": "From $6.60" },
+                  { "76 - 99 pieces": "From $6.30" },
+                  { "100 - 150 pieces": "From $6.00" },
+                  { "151 - 199 pieces": "From $5.80" },
+                  { "200 - 299 pieces": "From $5.60" },
+                  { "300 - 399 pieces": "From $5.45" },
+                  { ">399 pieces": "From $5.40" }
+                ],
+                "images": [
+                  "/images/Dri-Fit/Premium Drifit/Premium Drifit 1.jpg",
+                  "/images/Dri-Fit/Premium Drifit/Premium Drifit 2.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Dri-fit T-Shirt (Child)",
+            "description": "Stay cool and dry with moisture-wicking technology.",
+            "printable": true,
+            "printing_method": [
+              "MULTI COLOR EMBROIDERY",
+              "HEAT TRANSFER - DIRECT TO FILM",
+              "SILK SCREEN"
+            ],
+            "quantity": [
+              "20 - 29 pieces",
+              "30 - 49 pieces",
+              "50 - 75 pieces",
+              "76 - 99 pieces",
+              "100 - 150 pieces",
+              "151 - 199 pieces",
+              "200 - 299 pieces",
+              "300 - 399 pieces",
+              ">399 pieces"
+            ],
+            "size": ["A3", "A4", "A5"],
+            "types": [
+              {
+                "name": "REGULAR DRI-FIT",
+                "product_tag": "Dri-Fit T-shirt CHILD",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#FFFFFF",
+                      "#FADA45",
+                      "#70BBD9",
+                      "#ACF160",
+                      "#C91924",
+                      "#000000"
+                    ]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $5.05" },
+                  { "30 - 49 pieces": "From $4.05" },
+                  { "50 - 75 pieces": "From $3.70" },
+                  { "76 - 99 pieces": "From $3.50" },
+                  { "100 - 150 pieces": "From $3.40" },
+                  { "151 - 199 pieces": "From $3.20" },
+                  { "200 - 299 pieces": "From $3.10" },
+                  { "300 - 399 pieces": "From $3.05" },
+                  { ">399 pieces": "From $3.00" }
+                ],
+                "images": [
+                  "/images/Dri-Fit/Dri-fit T-Shirt (Child)/Dri-Fit T-shirt CHILD.png"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gym Towels",
+            "description": "Quick-dry, absorbent towels for your fitness routine.",
+            "printable": false,
+            "types": [
+              {
+                "name": "300GSM",
+                "product_tag": null,
+                "custom_options": [],
+                "basic_price": [
+                  { "20 - 29 pieces": 4.9 },
+                  { "30 - 49 pieces": 4.3 },
+                  { "50 - 75 pieces": 3.6 },
+                  { "76 - 99 pieces": 2.8 },
+                  { "100 - 150 pieces": 2.3 },
+                  { "151 - 199 pieces": 2.1 },
+                  { "200 - 299 pieces": 2.0 },
+                  { "300 - 399 pieces": 1.9 },
+                  { ">399 pieces": 1.8 }
+                ],
+                "images": ["/images/Towel/Towel.png"]
+              },
+              {
+                "name": "400GSM",
+                "product_tag": null,
+                "custom_options": [],
+                "basic_price": [
+                  { "20 - 29 pieces": 5.9 },
+                  { "30 - 49 pieces": 5.15 },
+                  { "50 - 75 pieces": 4.3 },
+                  { "76 - 99 pieces": 3.3 },
+                  { "100 - 150 pieces": 2.75 },
+                  { "151 - 199 pieces": 2.5 },
+                  { "200 - 299 pieces": 2.4 },
+                  { "300 - 399 pieces": 2.3 },
+                  { ">399 pieces": 2.2 }
+                ],
+                "images": ["/images/Towel/Towels.png"]
+              }
+            ]
+          },
+          {
+            "name": "Hoodie",
+            "description": "Cozy warmth meets casual style in this essential hoodie.",
+            "printable": true,
+            "printing_method": [
+              "MULTI COLOR EMBROIDERY",
+              "HEAT TRANSFER - DIRECT TO FILM",
+              "SILK SCREEN",
+              "EMBROIDERY"
+            ],
+            "quantity": [
+              "20 - 29 pieces",
+              "30 - 49 pieces",
+              "50 - 75 pieces",
+              "76 - 99 pieces",
+              "100 - 150 pieces",
+              "151 - 199 pieces",
+              "200 - 299 pieces",
+              "300 - 399 pieces",
+              ">399 pieces"
+            ],
+            "size": ["A3", "A4", "A5"],
+            "types": [
+              {
+                "name": "REGULAR HOODIE",
+                "product_tag": "Hoodie REGULAR",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#FFFFFF",
+                      "#DEC522",
+                      "#A3D448",
+                      "#1F97CF",
+                      "#285AAE",
+                      "#221D35",
+                      "#E16D19",
+                      "#E6BCCA",
+                      "#D51C1F",
+                      "#1C232F",
+                      "#B5B9B6",
+                      "#000000"
+                    ]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $12.95" },
+                  { "30 - 49 pieces": "From $10.35" },
+                  { "50 - 75 pieces": "From $9.40" },
+                  { "76 - 99 pieces": "From $9.00" },
+                  { "100 - 150 pieces": "From $8.60" },
+                  { "151 - 199 pieces": "From $8.30" },
+                  { "200 - 299 pieces": "From $7.95" },
+                  { "300 - 399 pieces": "From $7.80" },
+                  { ">399 pieces": "From $7.65" }
+                ],
+                "images": [
+                  "/images/Regular Hoodie/Regular Hoodie 1.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 2.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 3.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 4.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 5.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 6.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 7.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 8.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 9.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 10.jpg",
+                  "/images/Regular Hoodie/Regular Hoodie 11.jpg"
+                ]
+              },
+              {
+                "name": "PREMIUM HOODIE",
+                "product_tag": "Hoodie PREMIUM",
+                "custom_options": [
+                  {
+                    "color": [
+                      "#FFFFFF",
+                      "#EDD352",
+                      "#9DCD43",
+                      "#269FD6",
+                      "#396DC6",
+                      "#E16D19",
+                      "#E6BCCA",
+                      "#D51C1F",
+                      "#1C232F",
+                      "#B5B9B6",
+                      "#000000"
+                    ]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $14.80" },
+                  { "30 - 49 pieces": "From $11.85" },
+                  { "50 - 75 pieces": "From $10.80" },
+                  { "76 - 99 pieces": "From $10.30" },
+                  { "100 - 150 pieces": "From $9.90" },
+                  { "151 - 199 pieces": "From $9.50" },
+                  { "200 - 299 pieces": "From $9.10" },
+                  { "300 - 399 pieces": "From $8.95" },
+                  { ">399 pieces": "From $8.80" }
+                ],
+                "images": [
+                  "/images/Premium Hoodie/Premium Hoodie 1.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 2.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 3.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 4.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 5.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 6.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 7.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 8.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 9.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 10.jpg",
+                  "/images/Premium Hoodie/Premium Hoodie 11.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rashguard",
+            "description": "Sun protection and comfort for water and land activities.",
+            "printable": false,
+            "types": [
+              {
+                "name": "Rashguard",
+                "product_tag": null,
+                "custom_options": [
+                  {
+                    "color": ["#FFFFFF", "#A0AC9E", "#386165", "#000000"]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $20.05" },
+                  { "30 - 49 pieces": "From $16.00" },
+                  { "50 - 75 pieces": "From $14.60" },
+                  { "76 - 99 pieces": "From $13.95" },
+                  { "100 - 150 pieces": "From $13.35" },
+                  { "151 - 199 pieces": "From $12.80" },
+                  { "200 - 299 pieces": "From $12.35" },
+                  { "300 - 399 pieces": "From $12.10" },
+                  { ">399 pieces": "From $11.90" }
+                ],
+                "images": ["/images/Rashguard/Rashguard.png"]
+              }
+            ]
+          },
+          {
+            "name": "Tracksuit",
+            "description": "Sporty style and comfort for your active lifestyle.",
+            "printable": true,
+            "printing_method": [
+              "MULTI COLOR EMBROIDERY",
+              "HEAT TRANSFER - DIRECT TO FILM",
+              "SILK SCREEN",
+              "EMBROIDERY"
+            ],
+            "quantity": [
+              "20 - 29 pieces",
+              "30 - 49 pieces",
+              "50 - 75 pieces",
+              "76 - 99 pieces",
+              "100 - 150 pieces",
+              "151 - 199 pieces",
+              "200 - 299 pieces",
+              "300 - 399 pieces",
+              ">399 pieces"
+            ],
+            "size": ["A3", "A4", "A5"],
+            "types": [
+              {
+                "name": "REGULAR TRACKSUIT",
+                "product_tag": "Tracksuit REGULAR",
+                "custom_options": [
+                  {
+                    "color": ["#FFFFFF", "#3F66D5", "#D73441", "#000000"]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $21.00" },
+                  { "30 - 49 pieces": "From $16.70" },
+                  { "50 - 75 pieces": "From $15.25" },
+                  { "76 - 99 pieces": "From $14.60" },
+                  { "100 - 150 pieces": "From $14.00" },
+                  { "151 - 199 pieces": "From $13.45" },
+                  { "200 - 299 pieces": "From $12.90" },
+                  { "300 - 399 pieces": "From $12.70" },
+                  { ">399 pieces": "From $12.45" }
+                ],
+                "images": ["/images/Regular Tracksuit/regular tracksuit.jpg"]
+              },
+              {
+                "name": "PREMIUM TRACKSUIT",
+                "product_tag": "Tracksuit PREMIUM",
+                "custom_options": [
+                  {
+                    "color": ["#FFFFFF", "#000000"]
+                  }
+                ],
+                "basic_price": [
+                  { "20 - 29 pieces": "From $31.80" },
+                  { "30 - 49 pieces": "From $25.45" },
+                  { "50 - 75 pieces": "From $23.15" },
+                  { "76 - 99 pieces": "From $22.15" },
+                  { "100 - 150 pieces": "From $21.20" },
+                  { "151 - 199 pieces": "From $20.35" },
+                  { "200 - 299 pieces": "From $19.60" },
+                  { "300 - 399 pieces": "From $19.20" },
+                  { ">399 pieces": "From $18.90" }
+                ],
+                "images": [
+                  "/images/Premium Tracksuit/Premium Tracksuit 1.jpg",
+                  "/images/Premium Tracksuit/Premium Tracksuit 2.jpg"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Socks",
+            "description": "Comfy and durable socks for daily wear or workouts.",
+            "printable": false,
+            "remarks": "SAME DESIGN FOR BOTH SIDES",
+            "types": [
+              {
+                "name": "Ankle Size",
+                "product_tag": null,
+                "custom_options": [],
+                "basic_price": [
+                  { "20 - 29 pieces": 7.8 },
+                  { "30 - 49 pieces": 6.3 },
+                  { "50 - 75 pieces": 4.8 },
+                  { "76 - 99 pieces": 4.6 },
+                  { "100 - 150 pieces": 4.3 },
+                  { "151 - 199 pieces": 4.0 },
+                  { "200 - 299 pieces": 3.8 },
+                  { "300 - 399 pieces": 2.9 },
+                  { ">399 pieces": 2.2 }
+                ],
+                "images": ["/images/Socks/Socks.jpg"]
+              },
+              {
+                "name": "Quarter Size",
+                "product_tag": null,
+                "custom_options": [],
+                "basic_price": [
+                  { "20 - 29 pieces": 8.0 },
+                  { "30 - 49 pieces": 6.5 },
+                  { "50 - 75 pieces": 5.0 },
+                  { "76 - 99 pieces": 4.8 },
+                  { "100 - 150 pieces": 4.5 },
+                  { "151 - 199 pieces": 4.2 },
+                  { "200 - 299 pieces": 4.0 },
+                  { "300 - 399 pieces": 3.1 },
+                  { ">399 pieces": 2.4 }
+                ],
+                "images": ["/images/Socks/Socks.jpg"]
+              },
+              {
+                "name": "Crew Size",
+                "product_tag": null,
+                "custom_options": [],
+                "price": [
+                  { "20 - 29 pieces": 8.2 },
+                  { "30 - 49 pieces": 6.7 },
+                  { "50 - 75 pieces": 5.2 },
+                  { "76 - 99 pieces": 5.0 },
+                  { "100 - 150 pieces": 4.7 },
+                  { "151 - 199 pieces": 4.4 },
+                  { "200 - 299 pieces": 4.2 },
+                  { "300 - 399 pieces": 3.3 },
+                  { ">399 pieces": 2.6 }
+                ],
+                "images": ["/images/Socks/Socks.jpg"]
+              }
+            ]
+          }
+        ],
+        "file_upload_quantity": 3
+      },
+      "TODO": "Restructure the rest of below nanyang express category json to follow the structure above (apparels)",
+      "bags": {
+        "items": [
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Heat Transfer - DIRECT TO FILM Printing",
+            "dimensions": "290mm by 320mm",
+            "remarks": "BLACK, WHITE OR CREAM COLOUR BAGS",
+            "colour": ["BLACK", "WHITE", "CREAM"],
+            "price": [
+              { "20 - 29 pieces": 7.5 },
+              { "30 - 49 pieces": 6.2 },
+              { "50 - 75 pieces": 4.9 },
+              { "76 - 99 pieces": 4.5 },
+              { "100 - 150 pieces": 4.1 },
+              { "151 - 199 pieces": 3.9 },
+              { "200 - 299 pieces": 3.7 },
+              { "300 - 399 pieces": 3.6 },
+              { ">399 pieces": 3.5 }
+            ]
+          },
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Heat Transfer - DIRECT TO FILM Printing",
+            "dimensions": "340mm by 420mm",
+            "remarks": "BLACK, WHITE OR CREAM COLOUR BAGS",
+            "colour": ["BLACK", "WHITE", "CREAM"],
+            "price": [
+              { "20 - 29 pieces": 8.9 },
+              { "30 - 49 pieces": 7.5 },
+              { "50 - 75 pieces": 6.2 },
+              { "76 - 99 pieces": 5.8 },
+              { "100 - 150 pieces": 5.5 },
+              { "151 - 199 pieces": 5.2 },
+              { "200 - 299 pieces": 4.9 },
+              { "300 - 399 pieces": 4.7 },
+              { ">399 pieces": 4.6 }
+            ]
+          },
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Heat Transfer - DIRECT TO FILM Printing",
+            "dimensions": "290mm by 320mm",
+            "remarks": "ANY COLOUR BAGS",
+            "colour": "any",
+            "price": [
+              { "20 - 29 pieces": 8.5 },
+              { "30 - 49 pieces": 7.2 },
+              { "50 - 75 pieces": 5.9 },
+              { "76 - 99 pieces": 5.5 },
+              { "100 - 150 pieces": 5.1 },
+              { "151 - 199 pieces": 4.9 },
+              { "200 - 299 pieces": 4.7 },
+              { "300 - 399 pieces": 4.6 },
+              { ">399 pieces": 4.5 }
+            ]
+          },
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Heat Transfer - DIRECT TO FILM Printing",
+            "dimensions": "340mm by 420mm",
+            "remarks": "ANY COLOUR BAGS",
+            "colour": "any",
+            "price": [
+              { "20 - 29 pieces": 9.9 },
+              { "30 - 49 pieces": 8.5 },
+              { "50 - 75 pieces": 7.2 },
+              { "76 - 99 pieces": 6.8 },
+              { "100 - 150 pieces": 6.5 },
+              { "151 - 199 pieces": 6.2 },
+              { "200 - 299 pieces": 5.9 },
+              { "300 - 399 pieces": 5.7 },
+              { ">399 pieces": 5.6 }
+            ]
+          },
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Embriodery",
+            "dimensions": "290mm by 320mm",
+            "remarks": "BLACK, WHITE OR CREAM COLOUR BAGS",
+            "colour": ["BLACK", "WHITE", "CREAM"],
+            "price": [
+              { "20 - 29 pieces": 7.7 },
+              { "30 - 49 pieces": 6.4 },
+              { "50 - 75 pieces": 5.1 },
+              { "76 - 99 pieces": 4.7 },
+              { "100 - 150 pieces": 4.3 },
+              { "151 - 199 pieces": 4.1 },
+              { "200 - 299 pieces": 3.9 },
+              { "300 - 399 pieces": 3.8 },
+              { ">399 pieces": 3.7 }
+            ]
+          },
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Embriodery",
+            "dimensions": "340mm by 420mm",
+            "remarks": "BLACK, WHITE OR CREAM COLOUR BAGS",
+            "colour": ["BLACK", "WHITE", "CREAM"],
+            "price": [
+              { "20 - 29 pieces": 9.1 },
+              { "30 - 49 pieces": 7.7 },
+              { "50 - 75 pieces": 6.4 },
+              { "76 - 99 pieces": 6.0 },
+              { "100 - 150 pieces": 5.7 },
+              { "151 - 199 pieces": 5.4 },
+              { "200 - 299 pieces": 5.1 },
+              { "300 - 399 pieces": 4.9 },
+              { ">399 pieces": 4.8 }
+            ]
+          },
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Embriodery",
+            "dimensions": "290mm by 320mm",
+            "remarks": "ANY COLOUR BAGS",
+            "color": "any",
+            "price": [
+              { "20 - 29 pieces": 8.7 },
+              { "30 - 49 pieces": 7.4 },
+              { "50 - 75 pieces": 6.1 },
+              { "76 - 99 pieces": 5.7 },
+              { "100 - 150 pieces": 5.3 },
+              { "151 - 199 pieces": 5.1 },
+              { "200 - 299 pieces": 4.9 },
+              { "300 - 399 pieces": 4.8 },
+              { ">399 pieces": 4.7 }
+            ]
+          },
+          {
+            "name": "Canvas Tote Bags",
+            "description": "Embriodery",
+            "dimensions": "340mm by 420mm",
+            "remarks": "ANY COLOUR BAGS",
+            "color": "any",
+            "price": [
+              { "20 - 29 pieces": 10.1 },
+              { "30 - 49 pieces": 8.7 },
+              { "50 - 75 pieces": 7.4 },
+              { "76 - 99 pieces": 7.0 },
+              { "100 - 150 pieces": 6.7 },
+              { "151 - 199 pieces": 6.4 },
+              { "200 - 299 pieces": 6.1 },
+              { "300 - 399 pieces": 5.9 },
+              { ">399 pieces": 5.8 }
+            ]
+          },
+          {
+            "name": "Cotton Tote Bags",
+            "description": "Cotton",
+            "dimensions": "290mm by 320mm",
+            "remarks": "BLACK, WHITE OR CREAM COLOUR BAGS",
+            "colour": ["BLACK", "WHITE", "CREAM"],
+            "price": [
+              { "20 - 29 pieces": 8.5 },
+              { "30 - 49 pieces": 7.2 },
+              { "50 - 75 pieces": 5.9 },
+              { "76 - 99 pieces": 5.5 },
+              { "100 - 150 pieces": 5.1 },
+              { "151 - 199 pieces": 4.9 },
+              { "200 - 299 pieces": 4.7 },
+              { "300 - 399 pieces": 4.6 },
+              { ">399 pieces": 4.5 }
+            ]
+          },
+          {
+            "name": "Cotton Tote Bags",
+            "description": "Cotton",
+            "dimensions": "340mm by 420mm",
+            "remarks": "BLACK, WHITE OR CREAM COLOUR BAGS",
+            "colour": ["BLACK", "WHITE", "CREAM"],
+            "price": [
+              { "20 - 29 pieces": 9.9 },
+              { "30 - 49 pieces": 8.5 },
+              { "50 - 75 pieces": 7.2 },
+              { "76 - 99 pieces": 6.8 },
+              { "100 - 150 pieces": 6.5 },
+              { "151 - 199 pieces": 6.2 },
+              { "200 - 299 pieces": 5.9 },
+              { "300 - 399 pieces": 5.7 },
+              { ">399 pieces": 5.6 }
+            ]
+          },
+          {
+            "name": "Cotton Tote Bags",
+            "description": "Cotton",
+            "dimensions": "290mm by 320mm",
+            "remarks": "ANY COLOUR BAGS",
+            "color": "any",
+            "price": [
+              { "20 - 29 pieces": 9.5 },
+              { "30 - 49 pieces": 8.2 },
+              { "50 - 75 pieces": 6.9 },
+              { "76 - 99 pieces": 6.5 },
+              { "100 - 150 pieces": 6.1 },
+              { "151 - 199 pieces": 5.9 },
+              { "200 - 299 pieces": 5.7 },
+              { "300 - 399 pieces": 5.6 },
+              { ">399 pieces": 5.5 }
+            ]
+          },
+          {
+            "name": "Cotton Tote Bags",
+            "description": "Cotton",
+            "dimensions": "340mm by 420mm",
+            "remarks": "ANY COLOUR BAGS",
+            "color": "any",
+            "price": [
+              { "20 - 29 pieces": 10.9 },
+              { "30 - 49 pieces": 9.5 },
+              { "50 - 75 pieces": 8.2 },
+              { "76 - 99 pieces": 7.8 },
+              { "100 - 150 pieces": 7.5 },
+              { "151 - 199 pieces": 7.2 },
+              { "200 - 299 pieces": 6.9 },
+              { "300 - 399 pieces": 6.7 },
+              { ">399 pieces": 6.6 }
+            ]
+          },
+          {
+            "name": "Drawstring Bags",
+            "description": "Heat Transfer - DIRECT TO FILM Printing",
+            "dimensions": "297mm by 420mm",
+            "price": [
+              { "20 - 29 pieces": 4.9 },
+              { "30 - 49 pieces": 4.8 },
+              { "50 - 75 pieces": 4.2 },
+              { "76 - 99 pieces": 4.1 },
+              { "100 - 150 pieces": 4.0 },
+              { "151 - 199 pieces": 3.8 },
+              { "200 - 299 pieces": 3.7 },
+              { "300 - 399 pieces": 3.6 },
+              { ">399 pieces": 3.4 }
+            ]
+          },
+          {
+            "name": "Non Woven Tote Bags",
+            "description": "Heat Transfer - DIRECT TO FILM Printing",
+            "dimensions": "240mm by 260mm",
+            "price": [
+              { "20 - 29 pieces": 4.0 },
+              { "30 - 49 pieces": 2.9 },
+              { "50 - 75 pieces": 2.3 },
+              { "76 - 99 pieces": 1.9 },
+              { "100 - 150 pieces": 1.75 },
+              { "151 - 199 pieces": 1.6 },
+              { "200 - 299 pieces": 1.4 },
+              { "300 - 399 pieces": 0.95 },
+              { ">399 pieces": 0.85 }
+            ]
+          },
+          {
+            "name": "Non Woven Tote Bags",
+            "description": "Heat Transfer - DIRECT TO FILM Printing",
+            "dimensions": "300mm by 420mm",
+            "price": [
+              { "20 - 29 pieces": 4.5 },
+              { "30 - 49 pieces": 3.6 },
+              { "50 - 75 pieces": 3.0 },
+              { "76 - 99 pieces": 2.9 },
+              { "100 - 150 pieces": 2.7 },
+              { "151 - 199 pieces": 2.5 },
+              { "200 - 299 pieces": 2.4 },
+              { "300 - 399 pieces": 2.1 },
+              { ">399 pieces": 1.9 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      },
+      "cuddles": {
+        "items": [
+          {
+            "name": "Graduation Bears",
+            "description": "30cm",
+            "price": [
+              { "20 - 29 pieces": 15.5 },
+              { "30 - 49 pieces": 13.95 },
+              { "50 - 75 pieces": 12.4 },
+              { "76 - 99 pieces": 11.6 },
+              { "100 - 150 pieces": 10.85 },
+              { "151 - 199 pieces": 10.2 },
+              { "200 - 299 pieces": 9.6 },
+              { "300 - 399 pieces": 9.0 },
+              { ">399 pieces": 8.2 }
+            ]
+          },
+          {
+            "name": "Mascot",
+            "description": "regular",
+            "price": 860.0
+          },
+          {
+            "name": "Mascot",
+            "description": "premium",
+            "price": 1720.0
+          },
+          {
+            "name": "Plushie (Teddy Bear)",
+            "description": "15cm",
+            "price": [
+              { "20 - 29 pieces": 6.2 },
+              { "30 - 49 pieces": 5.58 },
+              { "50 - 75 pieces": 4.96 },
+              { "76 - 99 pieces": 4.65 },
+              { "100 - 150 pieces": 4.34 },
+              { "151 - 199 pieces": 4.09 },
+              { "200 - 299 pieces": 3.84 },
+              { "300 - 399 pieces": 3.6 },
+              { ">399 pieces": 3.29 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      },
+      "drinkware": {
+        "items": [
+          {
+            "name": "Mugs",
+            "description": "11OZ, HEAT PRINTING DESIGN TRANSFER",
+            "price": [
+              { "20 - 29 pieces": 5.5 },
+              { "30 - 49 pieces": 5.1 },
+              { "50 - 75 pieces": 4.8 },
+              { "76 - 99 pieces": 4.6 },
+              { "100 - 150 pieces": 4.5 },
+              { "151 - 199 pieces": 4.2 },
+              { "200 - 299 pieces": 4.0 },
+              { "300 - 399 pieces": 3.9 },
+              { ">399 pieces": 3.7 }
+            ]
+          },
+          {
+            "name": "Plastic Bottle",
+            "price": [
+              { "20 - 29 pieces": 5.0 },
+              { "30 - 49 pieces": 4.2 },
+              { "50 - 75 pieces": 3.2 },
+              { "76 - 99 pieces": 2.8 },
+              { "100 - 150 pieces": 2.4 },
+              { "151 - 199 pieces": 2.3 },
+              { "200 - 299 pieces": 2.2 },
+              { "300 - 399 pieces": 2.1 },
+              { ">399 pieces": 2.0 }
+            ]
+          },
+          {
+            "name": "Wine Opener",
+            "description": "normal without box",
+            "price": [
+              { "20 - 29 pieces": 7.7 },
+              { "30 - 49 pieces": 6.7 },
+              { "50 - 75 pieces": 5.7 },
+              { "76 - 99 pieces": 5.5 },
+              { "100 - 150 pieces": 5.3 },
+              { "151 - 199 pieces": 5.0 },
+              { "200 - 299 pieces": 4.5 },
+              { "300 - 399 pieces": 4.0 },
+              { ">399 pieces": 3.8 }
+            ],
+            "image": "/images/Wine Opener/normal wine opener.jpg"
+          },
+          {
+            "name": "Wine Opener",
+            "description": "normal with box",
+            "price": [
+              { "20 - 29 pieces": 8.7 },
+              { "30 - 49 pieces": 7.7 },
+              { "50 - 75 pieces": 6.7 },
+              { "76 - 99 pieces": 6.5 },
+              { "100 - 150 pieces": 6.3 },
+              { "151 - 199 pieces": 6.0 },
+              { "200 - 299 pieces": 5.5 },
+              { "300 - 399 pieces": 5.0 },
+              { ">399 pieces": 4.8 }
+            ],
+            "image": "/images/Wine Opener/normal wine opener with box.jpg"
+          },
+          {
+            "name": "Wine Opener",
+            "description": "premium without box",
+            "price": [
+              { "20 - 29 pieces": 8.5 },
+              { "30 - 49 pieces": 7.6 },
+              { "50 - 75 pieces": 6.7 },
+              { "76 - 99 pieces": 6.5 },
+              { "100 - 150 pieces": 6.3 },
+              { "151 - 199 pieces": 6.0 },
+              { "200 - 299 pieces": 5.5 },
+              { "300 - 399 pieces": 5.0 },
+              { ">399 pieces": 4.8 }
+            ],
+            "image": [
+              "/images/Wine Opener/premium wine opener.jpg",
+              "/images/Wine Opener/premium wine opener 2.jpg"
+            ]
+          },
+          {
+            "name": "Wine Opener",
+            "description": "premium with box",
+            "price": [
+              { "20 - 29 pieces": 9.5 },
+              { "30 - 49 pieces": 8.6 },
+              { "50 - 75 pieces": 7.7 },
+              { "76 - 99 pieces": 7.5 },
+              { "100 - 150 pieces": 7.3 },
+              { "151 - 199 pieces": 7.0 },
+              { "200 - 299 pieces": 6.5 },
+              { "300 - 399 pieces": 6.0 },
+              { ">399 pieces": 5.8 }
+            ],
+            "image": "/images/Wine Opener/premium wine opener with box.jpg"
+          },
+          {
+            "name": "Thermal Flask",
+            "description": "304 STAINLESS STEEL, HEAT PRINTING DESIGN TRANSFER",
+            "dimensions": "300ML",
+            "price": [
+              { "20 - 29 pieces": 9.9 },
+              { "30 - 49 pieces": 7.9 },
+              { "50 - 75 pieces": 6.9 },
+              { "76 - 99 pieces": 6.4 },
+              { "100 - 150 pieces": 5.9 },
+              { "151 - 199 pieces": 5.7 },
+              { "200 - 299 pieces": 5.5 },
+              { "300 - 399 pieces": 5.3 },
+              { ">399 pieces": 5.1 }
+            ]
+          },
+          {
+            "name": "Thermal Flask",
+            "description": "304 STAINLESS STEEL, HEAT PRINTING DESIGN TRANSFER",
+            "dimensions": "500ML",
+            "price": [
+              { "20 - 29 pieces": 10.9 },
+              { "30 - 49 pieces": 8.9 },
+              { "50 - 75 pieces": 7.9 },
+              { "76 - 99 pieces": 7.4 },
+              { "100 - 150 pieces": 6.9 },
+              { "151 - 199 pieces": 6.7 },
+              { "200 - 299 pieces": 6.5 },
+              { "300 - 399 pieces": 6.3 },
+              { ">399 pieces": 6.1 }
+            ]
+          },
+          {
+            "name": "Thermal Flask",
+            "description": "304 STAINLESS STEEL, HEAT PRINTING DESIGN TRANSFER",
+            "dimensions": "750ML",
+            "price": [
+              { "20 - 29 pieces": 11.9 },
+              { "30 - 49 pieces": 9.9 },
+              { "50 - 75 pieces": 8.9 },
+              { "76 - 99 pieces": 8.4 },
+              { "100 - 150 pieces": 7.9 },
+              { "151 - 199 pieces": 7.7 },
+              { "200 - 299 pieces": 7.5 },
+              { "300 - 399 pieces": 7.3 },
+              { ">399 pieces": 7.1 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      },
+      "lanyard": {
+        "items": [
+          {
+            "name": "100% Polyester Lanyard",
+            "description": "SINGLE COLOUR DOUBLE SIDED PRINTING",
+            "dimensions": "90mm by 20mm",
+            "price": [
+              { "20 - 29 pieces": 3.5 },
+              { "30 - 49 pieces": 2.9 },
+              { "50 - 75 pieces": 2.0 },
+              { "76 - 99 pieces": 1.7 },
+              { "100 - 150 pieces": 1.3 },
+              { "151 - 199 pieces": 1.2 },
+              { "200 - 299 pieces": 1.0 },
+              { "300 - 399 pieces": 0.85 },
+              { ">399 pieces": 0.8 }
+            ]
+          },
+          {
+            "name": "100% Polyester Lanyard",
+            "description": "FULL COLOUR DOUBLE SIDED PRINTING",
+            "dimensions": "90mm by 20mm",
+            "price": [
+              { "20 - 29 pieces": 3.7 },
+              { "30 - 49 pieces": 3.3 },
+              { "50 - 75 pieces": 2.3 },
+              { "76 - 99 pieces": 1.9 },
+              { "100 - 150 pieces": 1.7 },
+              { "151 - 199 pieces": 1.6 },
+              { "200 - 299 pieces": 1.4 },
+              { "300 - 399 pieces": 1.2 },
+              { ">399 pieces": 1.1 }
+            ]
+          },
+          {
+            "name": "100% Polyester Lanyard",
+            "description": "SINGLE COLOUR DOUBLE SIDED PRINTING W BUCKLE",
+            "dimensions": "90mm by 20mm",
+            "price": [
+              { "20 - 29 pieces": 3.7 },
+              { "30 - 49 pieces": 3.1 },
+              { "50 - 75 pieces": 2.2 },
+              { "76 - 99 pieces": 1.9 },
+              { "100 - 150 pieces": 1.5 },
+              { "151 - 199 pieces": 1.4 },
+              { "200 - 299 pieces": 1.2 },
+              { "300 - 399 pieces": 1.05 },
+              { ">399 pieces": 1.0 }
+            ]
+          },
+          {
+            "name": "100% Polyester Lanyard",
+            "description": "FULL COLOUR DOUBLE SIDED PRINTING W BUCKLE",
+            "dimensions": "90mm by 20mm",
+            "price": [
+              { "20 - 29 pieces": 3.9 },
+              { "30 - 49 pieces": 3.5 },
+              { "50 - 75 pieces": 2.5 },
+              { "76 - 99 pieces": 2.1 },
+              { "100 - 150 pieces": 1.9 },
+              { "151 - 199 pieces": 1.8 },
+              { "200 - 299 pieces": 1.6 },
+              { "300 - 399 pieces": 1.4 },
+              { ">399 pieces": 1.3 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      },
+      "lifestyle": {
+        "items": [
+          {
+            "name": "Cushions",
+            "price": [
+              { "20 - 29 pieces": 7.2 },
+              { "30 - 49 pieces": 6.8 },
+              { "50 - 75 pieces": 6.05 },
+              { "76 - 99 pieces": 5.6 },
+              { "100 - 150 pieces": 4.9 },
+              { "151 - 199 pieces": 4.6 },
+              { "200 - 299 pieces": 4.4 },
+              { "300 - 399 pieces": 4.2 },
+              { ">399 pieces": 3.9 }
+            ]
+          },
+          {
+            "name": "Portable Fans",
+            "price": [
+              { "20 - 29 pieces": 5.5 },
+              { "30 - 49 pieces": 5.1 },
+              { "50 - 75 pieces": 4.8 },
+              { "76 - 99 pieces": 4.6 },
+              { "100 - 150 pieces": 4.5 },
+              { "151 - 199 pieces": 4.2 },
+              { "200 - 299 pieces": 4.0 },
+              { "300 - 399 pieces": 3.8 },
+              { ">399 pieces": 3.7 }
+            ]
+          },
+          {
+            "name": "Tissue Paper",
+            "description": "120pcs (3ply)",
+            "remarks": "10 packs per unit",
+            "price": [
+              { "20 - 29 pieces": 6.8 },
+              { "30 - 49 pieces": 6.3 },
+              { "50 - 75 pieces": 6.05 },
+              { "76 - 99 pieces": 5.8 },
+              { "100 - 150 pieces": 5.6 },
+              { "151 - 199 pieces": 5.4 },
+              { "200 - 299 pieces": 5.2 },
+              { "300 - 399 pieces": 5.0 },
+              { ">399 pieces": 4.8 }
+            ]
+          },
+          {
+            "name": "Tissue Paper",
+            "description": "240pcs (3ply)",
+            "remarks": "10 packs per unit",
+            "price": [
+              { "20 - 29 pieces": 12.24 },
+              { "30 - 49 pieces": 11.34 },
+              { "50 - 75 pieces": 10.89 },
+              { "76 - 99 pieces": 10.44 },
+              { "100 - 150 pieces": 10.08 },
+              { "151 - 199 pieces": 9.72 },
+              { "200 - 299 pieces": 9.36 },
+              { "300 - 399 pieces": 9.0 },
+              { ">399 pieces": 8.64 }
+            ]
+          },
+          {
+            "name": "Travel Cube",
+            "description": "Large",
+            "dimensions": "400mm by 300mm by 140mm",
+            "price": [
+              { "20 - 29 pieces": 7.6 },
+              { "30 - 49 pieces": 6.8 },
+              { "50 - 75 pieces": 4.8 },
+              { "76 - 99 pieces": 4.2 },
+              { "100 - 150 pieces": 3.8 },
+              { "151 - 199 pieces": 3.5 },
+              { "200 - 299 pieces": 3.2 },
+              { "300 - 399 pieces": 3.0 },
+              { ">399 pieces": 2.6 }
+            ]
+          },
+          {
+            "name": "Travel Cube",
+            "description": "Medium",
+            "dimensions": "300mm by 270mm by 120mm",
+            "price": [
+              { "20 - 29 pieces": 7.4 },
+              { "30 - 49 pieces": 6.6 },
+              { "50 - 75 pieces": 4.6 },
+              { "76 - 99 pieces": 4.0 },
+              { "100 - 150 pieces": 3.6 },
+              { "151 - 199 pieces": 3.3 },
+              { "200 - 299 pieces": 3.0 },
+              { "300 - 399 pieces": 2.8 },
+              { ">399 pieces": 2.4 }
+            ]
+          },
+          {
+            "name": "Travel Cube",
+            "description": "Small",
+            "dimensions": "300mm by 200mm by 110mm",
+            "price": [
+              { "20 - 29 pieces": 7.2 },
+              { "30 - 49 pieces": 6.4 },
+              { "50 - 75 pieces": 4.4 },
+              { "76 - 99 pieces": 3.8 },
+              { "100 - 150 pieces": 3.4 },
+              { "151 - 199 pieces": 3.1 },
+              { "200 - 299 pieces": 2.8 },
+              { "300 - 399 pieces": 2.6 },
+              { ">399 pieces": 2.2 }
+            ]
+          },
+          {
+            "name": "Umbrella",
+            "description": "8 Folds 8 Flaps",
+            "price": [
+              { "20 - 29 pieces": 7.3 },
+              { "30 - 49 pieces": 5.3 },
+              { "50 - 75 pieces": 4.3 },
+              { "76 - 99 pieces": 4.1 },
+              { "100 - 150 pieces": 3.9 },
+              { "151 - 199 pieces": 3.7 },
+              { "200 - 299 pieces": 3.5 },
+              { "300 - 399 pieces": 3.2 },
+              { ">399 pieces": 2.9 }
+            ]
+          },
+          {
+            "name": "Vacuum Cleaner",
+            "description": "Handheld size",
+            "price": [
+              { "20 - 29 pieces": 14.1 },
+              { "30 - 49 pieces": 12.3 },
+              { "50 - 75 pieces": 9.8 },
+              { "76 - 99 pieces": 9.5 },
+              { "100 - 150 pieces": 9.2 },
+              { "151 - 199 pieces": 8.9 },
+              { "200 - 299 pieces": 8.7 },
+              { "300 - 399 pieces": 8.3 },
+              { ">399 pieces": 8.0 }
+            ]
+          },
+          {
+            "name": "Vacuum Cleaner",
+            "description": "Tabletop size",
+            "price": [
+              { "20 - 29 pieces": 13.8 },
+              { "30 - 49 pieces": 11.4 },
+              { "50 - 75 pieces": 9.0 },
+              { "76 - 99 pieces": 8.8 },
+              { "100 - 150 pieces": 8.5 },
+              { "151 - 199 pieces": 8.2 },
+              { "200 - 299 pieces": 8.0 },
+              { "300 - 399 pieces": 7.8 },
+              { ">399 pieces": 7.7 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      },
+      "office supplies": {
+        "items": [
+          {
+            "name": "A4 Clear Folders",
+            "description": "TRANSLUCENT L-SHAPE - 1 COLOUR",
+            "price": [
+              { "20 - 29 pieces": 2.7 },
+              { "30 - 49 pieces": 2.3 },
+              { "50 - 75 pieces": 1.9 },
+              { "76 - 99 pieces": 1.7 },
+              { "100 - 150 pieces": 1.6 },
+              { "151 - 199 pieces": 1.5 },
+              { "200 - 299 pieces": 1.4 },
+              { "300 - 399 pieces": 1.2 },
+              { ">399 pieces": 0.9 }
+            ]
+          },
+          {
+            "name": "A4 Clear Folders",
+            "description": "OPAQUE L-SHAPE - 1 COLOUR",
+            "price": [
+              { "20 - 29 pieces": 2.7 },
+              { "30 - 49 pieces": 2.3 },
+              { "50 - 75 pieces": 1.9 },
+              { "76 - 99 pieces": 1.7 },
+              { "100 - 150 pieces": 1.6 },
+              { "151 - 199 pieces": 1.5 },
+              { "200 - 299 pieces": 1.4 },
+              { "300 - 399 pieces": 1.2 },
+              { ">399 pieces": 0.9 }
+            ]
+          },
+          {
+            "name": "A4 Clear Folders",
+            "description": "L-SHAPE - FULL COLOUR",
+            "price": [
+              { "20 - 29 pieces": 4.5 },
+              { "30 - 49 pieces": 4.3 },
+              { "50 - 75 pieces": 4.1 },
+              { "76 - 99 pieces": 3.9 },
+              { "100 - 150 pieces": 3.7 },
+              { "151 - 199 pieces": 3.5 },
+              { "200 - 299 pieces": 2.5 },
+              { "300 - 399 pieces": 1.9 },
+              { ">399 pieces": 1.7 }
+            ]
+          },
+          {
+            "name": "Foolscap Pads",
+            "price": [
+              { "20 - 29 pieces": 7.5 },
+              { "30 - 49 pieces": 6.5 },
+              { "50 - 75 pieces": 5.6 },
+              { "76 - 99 pieces": 4.8 },
+              { "100 - 150 pieces": 4.6 },
+              { "151 - 199 pieces": 3.8 },
+              { "200 - 299 pieces": 3.3 },
+              { "300 - 399 pieces": 2.8 },
+              { ">399 pieces": 2.6 }
+            ]
+          },
+          {
+            "name": "Gift Box",
+            "description": "PREMIUM CUSTOMIZATION",
+            "price": "Contact Us For More Info!"
+          },
+          {
+            "name": "Keychains",
+            "price": [
+              { "20 - 29 pieces": 5.0 },
+              { "30 - 49 pieces": 4.0 },
+              { "50 - 75 pieces": 3.8 },
+              { "76 - 99 pieces": 3.6 },
+              { "100 - 150 pieces": 3.4 },
+              { "151 - 199 pieces": 3.3 },
+              { "200 - 299 pieces": 3.1 },
+              { "300 - 399 pieces": 2.9 },
+              { ">399 pieces": 2.6 }
+            ]
+          },
+          {
+            "name": "Laptop Sleeve",
+            "price": [
+              { "20 - 29 pieces": 13.5 },
+              { "30 - 49 pieces": 11.5 },
+              { "50 - 75 pieces": 9.8 },
+              { "76 - 99 pieces": 9.5 },
+              { "100 - 150 pieces": 9.2 },
+              { "151 - 199 pieces": 8.9 },
+              { "200 - 299 pieces": 8.7 },
+              { "300 - 399 pieces": 8.3 },
+              { ">399 pieces": 8.0 }
+            ]
+          },
+          {
+            "name": "Mouse",
+            "price": [
+              { "20 - 29 pieces": 5.5 },
+              { "30 - 49 pieces": 5.3 },
+              { "50 - 75 pieces": 5.0 },
+              { "76 - 99 pieces": 4.8 },
+              { "100 - 150 pieces": 4.6 },
+              { "151 - 199 pieces": 4.3 },
+              { "200 - 299 pieces": 3.9 },
+              { "300 - 399 pieces": 3.3 },
+              { ">399 pieces": 3.2 }
+            ]
+          },
+          {
+            "name": "Notebook",
+            "description": "NORMAL",
+            "price": [
+              { "20 - 29 pieces": 3.8 },
+              { "30 - 49 pieces": 3.2 },
+              { "50 - 75 pieces": 2.5 },
+              { "76 - 99 pieces": 2.3 },
+              { "100 - 150 pieces": 2.0 },
+              { "151 - 199 pieces": 1.9 },
+              { "200 - 299 pieces": 1.8 },
+              { "300 - 399 pieces": 1.7 },
+              { ">399 pieces": 1.65 }
+            ]
+          },
+          {
+            "name": "Notebook",
+            "description": "LEATHER",
+            "price": [
+              { "20 - 29 pieces": 4.9 },
+              { "30 - 49 pieces": 4.2 },
+              { "50 - 75 pieces": 3.8 },
+              { "76 - 99 pieces": 3.6 },
+              { "100 - 150 pieces": 3.4 },
+              { "151 - 199 pieces": 3.2 },
+              { "200 - 299 pieces": 3.1 },
+              { "300 - 399 pieces": 3.0 },
+              { ">399 pieces": 2.9 }
+            ]
+          },
+          {
+            "name": "Pens",
+            "description": "METAL",
+            "price": [
+              { "20 - 29 pieces": 6.9 },
+              { "30 - 49 pieces": 5.9 },
+              { "50 - 75 pieces": 4.2 },
+              { "76 - 99 pieces": 3.8 },
+              { "100 - 150 pieces": 3.4 },
+              { "151 - 199 pieces": 3.1 },
+              { "200 - 299 pieces": 2.8 },
+              { "300 - 399 pieces": 2.5 },
+              { ">399 pieces": 2.2 }
+            ]
+          },
+          {
+            "name": "Pens",
+            "description": "PLASTIC",
+            "price": [
+              { "20 - 29 pieces": 1.99 },
+              { "30 - 49 pieces": 1.6 },
+              { "50 - 75 pieces": 1.49 },
+              { "76 - 99 pieces": 1.3 },
+              { "100 - 150 pieces": 0.99 },
+              { "151 - 199 pieces": 0.99 },
+              { "200 - 299 pieces": 0.99 },
+              { "300 - 399 pieces": 0.99 },
+              { ">399 pieces": 0.99 }
+            ]
+          },
+          {
+            "name": "Post-It Pads",
+            "price": [
+              { "20 - 29 pieces": 6.0 },
+              { "30 - 49 pieces": 5.5 },
+              { "50 - 75 pieces": 4.7 },
+              { "76 - 99 pieces": 4.2 },
+              { "100 - 150 pieces": 3.4 },
+              { "151 - 199 pieces": 3.2 },
+              { "200 - 299 pieces": 2.8 },
+              { "300 - 399 pieces": 2.6 },
+              { ">399 pieces": 2.5 }
+            ]
+          },
+          {
+            "name": "Small Portabl Speaker",
+            "price": [
+              { "20 - 29 pieces": 14.9 },
+              { "30 - 49 pieces": 12.9 },
+              { "50 - 75 pieces": 9.9 },
+              { "76 - 99 pieces": 8.9 },
+              { "100 - 150 pieces": 7.9 },
+              { "151 - 199 pieces": 7.2 },
+              { "200 - 299 pieces": 6.4 },
+              { "300 - 399 pieces": 6.1 },
+              { ">399 pieces": 5.9 }
+            ]
+          },
+          {
+            "name": "Thumbdrive",
+            "description": "16GB",
+            "price": [
+              { "20 - 29 pieces": 8.3 },
+              { "30 - 49 pieces": 6.2 },
+              { "50 - 75 pieces": 4.5 },
+              { "76 - 99 pieces": 4.3 },
+              { "100 - 150 pieces": 4.1 },
+              { "151 - 199 pieces": 3.8 },
+              { "200 - 299 pieces": 3.4 },
+              { "300 - 399 pieces": 2.8 },
+              { ">399 pieces": 2.7 }
+            ]
+          },
+          {
+            "name": "Thumbdrive",
+            "description": "32GB",
+            "price": [
+              { "20 - 29 pieces": 8.5 },
+              { "30 - 49 pieces": 6.4 },
+              { "50 - 75 pieces": 4.7 },
+              { "76 - 99 pieces": 4.5 },
+              { "100 - 150 pieces": 4.3 },
+              { "151 - 199 pieces": 4.0 },
+              { "200 - 299 pieces": 3.6 },
+              { "300 - 399 pieces": 3.0 },
+              { ">399 pieces": 2.9 }
+            ]
+          },
+          {
+            "name": "Thumbdrive",
+            "description": "64GB",
+            "price": [
+              { "20 - 29 pieces": 8.8 },
+              { "30 - 49 pieces": 6.7 },
+              { "50 - 75 pieces": 5.0 },
+              { "76 - 99 pieces": 4.8 },
+              { "100 - 150 pieces": 4.6 },
+              { "151 - 199 pieces": 4.3 },
+              { "200 - 299 pieces": 3.9 },
+              { "300 - 399 pieces": 3.3 },
+              { ">399 pieces": 3.2 }
+            ]
+          },
+          {
+            "name": "Vouchers",
+            "description": "128G ART PAPER",
+            "dimensions": "9cm by 5.4cm",
+            "price": [
+              { "20 - 29 pieces": 0.9 },
+              { "30 - 49 pieces": 0.65 },
+              { "50 - 75 pieces": 0.5 },
+              { "76 - 99 pieces": 0.4 },
+              { "100 - 150 pieces": 0.37 },
+              { "151 - 199 pieces": 0.28 },
+              { "200 - 299 pieces": 0.2 },
+              { "300 - 399 pieces": 0.14 },
+              { ">399 pieces": 0.12 }
+            ]
+          },
+          {
+            "name": "Vouchers",
+            "description": "260G ART PAPER",
+            "dimensions": "9cm by 5.4cm",
+            "price": [
+              { "20 - 29 pieces": 1.0 },
+              { "30 - 49 pieces": 0.85 },
+              { "50 - 75 pieces": 0.6 },
+              { "76 - 99 pieces": 0.5 },
+              { "100 - 150 pieces": 0.39 },
+              { "151 - 199 pieces": 0.29 },
+              { "200 - 299 pieces": 0.21 },
+              { "300 - 399 pieces": 0.15 },
+              { ">399 pieces": 0.14 }
+            ]
+          },
+          {
+            "name": "Wristbands",
+            "price": [
+              { "20 - 29 pieces": 2.9 },
+              { "30 - 49 pieces": 2.4 },
+              { "50 - 75 pieces": 1.9 },
+              { "76 - 99 pieces": 1.8 },
+              { "100 - 150 pieces": 1.5 },
+              { "151 - 199 pieces": 1.1 },
+              { "200 - 299 pieces": 0.8 },
+              { "300 - 399 pieces": 0.5 },
+              { ">399 pieces": 0.4 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      },
+      "pins": {
+        "items": [
+          {
+            "name": "Epoxy Pins",
+            "description": "EPOXY",
+            "dimensions": "70mm by 20mm",
+            "price": [
+              { "20 - 29 pieces": 4.9 },
+              { "30 - 49 pieces": 4.3 },
+              { "50 - 75 pieces": 4.0 },
+              { "76 - 99 pieces": 3.2 },
+              { "100 - 150 pieces": 2.4 },
+              { "151 - 199 pieces": 2.3 },
+              { "200 - 299 pieces": 2.2 },
+              { "300 - 399 pieces": 1.5 },
+              { ">399 pieces": 1.4 }
+            ]
+          },
+          {
+            "name": "Epoxy Lapel Pins",
+            "description": "EPOXY LAPEL",
+            "dimensions": "20mm by 20mm",
+            "price": [
+              { "20 - 29 pieces": 9.9 },
+              { "30 - 49 pieces": 7.2 },
+              { "50 - 75 pieces": 5.0 },
+              { "76 - 99 pieces": 4.5 },
+              { "100 - 150 pieces": 2.5 },
+              { "151 - 199 pieces": 1.9 },
+              { "200 - 299 pieces": 1.5 },
+              { "300 - 399 pieces": 1.1 },
+              { ">399 pieces": 1.0 }
+            ]
+          },
+          {
+            "name": "Soft Enamel Pins",
+            "description": "SOFT ENAMEL",
+            "dimensions": "20mm",
+            "price": [
+              { "20 - 29 pieces": 8.9 },
+              { "30 - 49 pieces": 5.5 },
+              { "50 - 75 pieces": 4.0 },
+              { "76 - 99 pieces": 2.9 },
+              { "100 - 150 pieces": 2.1 },
+              { "151 - 199 pieces": 2.0 },
+              { "200 - 299 pieces": 1.45 },
+              { "300 - 399 pieces": 1.3 },
+              { ">399 pieces": 1.1 }
+            ]
+          },
+          {
+            "name": "Soft Enamel Pins",
+            "description": "SOFT ENAMEL",
+            "dimensions": "30mm",
+            "price": [
+              { "20 - 29 pieces": 8.9 },
+              { "30 - 49 pieces": 5.5 },
+              { "50 - 75 pieces": 4.15 },
+              { "76 - 99 pieces": 3.0 },
+              { "100 - 150 pieces": 2.2 },
+              { "151 - 199 pieces": 2.05 },
+              { "200 - 299 pieces": 1.45 },
+              { "300 - 399 pieces": 1.3 },
+              { ">399 pieces": 1.1 }
+            ]
+          },
+          {
+            "name": "Soft Enamel Pins",
+            "description": "SOFT ENAMEL",
+            "dimensions": "40mm",
+            "price": [
+              { "20 - 29 pieces": 9.9 },
+              { "30 - 49 pieces": 6.5 },
+              { "50 - 75 pieces": 4.5 },
+              { "76 - 99 pieces": 3.1 },
+              { "100 - 150 pieces": 2.4 },
+              { "151 - 199 pieces": 2.4 },
+              { "200 - 299 pieces": 1.65 },
+              { "300 - 399 pieces": 1.4 },
+              { ">399 pieces": 1.25 }
+            ]
+          },
+          {
+            "name": "Hard Enamel Pins",
+            "description": "HARD ENAMEL",
+            "dimensions": "20mm",
+            "price": [
+              { "20 - 29 pieces": 9.9 },
+              { "30 - 49 pieces": 6.5 },
+              { "50 - 75 pieces": 4.7 },
+              { "76 - 99 pieces": 4.5 },
+              { "100 - 150 pieces": 3.05 },
+              { "151 - 199 pieces": 2.5 },
+              { "200 - 299 pieces": 2.0 },
+              { "300 - 399 pieces": 1.7 },
+              { ">399 pieces": 1.6 }
+            ]
+          },
+          {
+            "name": "Hard Enamel Pins",
+            "description": "HARD ENAMEL",
+            "dimensions": "30mm",
+            "price": [
+              { "20 - 29 pieces": 11.9 },
+              { "30 - 49 pieces": 9.0 },
+              { "50 - 75 pieces": 5.0 },
+              { "76 - 99 pieces": 4.9 },
+              { "100 - 150 pieces": 3.4 },
+              { "151 - 199 pieces": 2.7 },
+              { "200 - 299 pieces": 2.2 },
+              { "300 - 399 pieces": 2.1 },
+              { ">399 pieces": 1.95 }
+            ]
+          },
+          {
+            "name": "Hard Enamel Pins",
+            "description": "HARD ENAMEL",
+            "dimensions": "40mm",
+            "price": [
+              { "20 - 29 pieces": 14.9 },
+              { "30 - 49 pieces": 9.5 },
+              { "50 - 75 pieces": 5.2 },
+              { "76 - 99 pieces": 5.1 },
+              { "100 - 150 pieces": 3.8 },
+              { "151 - 199 pieces": 2.8 },
+              { "200 - 299 pieces": 2.4 },
+              { "300 - 399 pieces": 2.1 },
+              { ">399 pieces": 1.95 }
+            ]
+          },
+          {
+            "name": "Round Brooch Pins",
+            "dimensions": "32mm",
+            "price": [
+              { "20 - 29 pieces": 1.4 },
+              { "30 - 49 pieces": 1.3 },
+              { "50 - 75 pieces": 1.1 },
+              { "76 - 99 pieces": 1.0 },
+              { "100 - 150 pieces": 0.75 },
+              { "151 - 199 pieces": 0.7 },
+              { "200 - 299 pieces": 0.6 },
+              { "300 - 399 pieces": 0.55 },
+              { ">399 pieces": 0.5 }
+            ]
+          },
+          {
+            "name": "Round Brooch Pins",
+            "dimensions": "44mm",
+            "price": [
+              { "20 - 29 pieces": 1.4 },
+              { "30 - 49 pieces": 1.3 },
+              { "50 - 75 pieces": 1.1 },
+              { "76 - 99 pieces": 1.0 },
+              { "100 - 150 pieces": 0.75 },
+              { "151 - 199 pieces": 0.7 },
+              { "200 - 299 pieces": 0.6 },
+              { "300 - 399 pieces": 0.55 },
+              { ">399 pieces": 0.5 }
+            ]
+          },
+          {
+            "name": "Round Brooch Pins",
+            "dimensions": "58mm",
+            "price": [
+              { "20 - 29 pieces": 1.4 },
+              { "30 - 49 pieces": 1.3 },
+              { "50 - 75 pieces": 1.1 },
+              { "76 - 99 pieces": 1.0 },
+              { "100 - 150 pieces": 0.75 },
+              { "151 - 199 pieces": 0.7 },
+              { "200 - 299 pieces": 0.6 },
+              { "300 - 399 pieces": 0.55 },
+              { ">399 pieces": 0.5 }
+            ]
+          },
+          {
+            "name": "Round Brooch Pins",
+            "dimensions": "75mm",
+            "price": [
+              { "20 - 29 pieces": 2.1 },
+              { "30 - 49 pieces": 2.0 },
+              { "50 - 75 pieces": 1.4 },
+              { "76 - 99 pieces": 1.3 },
+              { "100 - 150 pieces": 0.95 },
+              { "151 - 199 pieces": 0.9 },
+              { "200 - 299 pieces": 0.8 },
+              { "300 - 399 pieces": 0.65 },
+              { ">399 pieces": 0.6 }
+            ]
+          },
+          {
+            "name": "Round Brooch Pins",
+            "dimensions": "100mm",
+            "price": [
+              { "20 - 29 pieces": 2.3 },
+              { "30 - 49 pieces": 2.1 },
+              { "50 - 75 pieces": 1.5 },
+              { "76 - 99 pieces": 1.4 },
+              { "100 - 150 pieces": 1.0 },
+              { "151 - 199 pieces": 0.95 },
+              { "200 - 299 pieces": 0.9 },
+              { "300 - 399 pieces": 0.8 },
+              { ">399 pieces": 0.7 }
+            ]
+          },
+          {
+            "name": "Square Brooch Pins",
+            "dimensions": "25mm by 25mm",
+            "price": [
+              { "20 - 29 pieces": 2.8 },
+              { "30 - 49 pieces": 2.7 },
+              { "50 - 75 pieces": 1.6 },
+              { "76 - 99 pieces": 1.55 },
+              { "100 - 150 pieces": 1.1 },
+              { "151 - 199 pieces": 1.0 },
+              { "200 - 299 pieces": 0.8 },
+              { "300 - 399 pieces": 0.75 },
+              { ">399 pieces": 0.7 }
+            ]
+          },
+          {
+            "name": "Square Brooch Pins",
+            "dimensions": "35mm by 35mm",
+            "price": [
+              { "20 - 29 pieces": 2.85 },
+              { "30 - 49 pieces": 2.75 },
+              { "50 - 75 pieces": 1.65 },
+              { "76 - 99 pieces": 1.6 },
+              { "100 - 150 pieces": 1.15 },
+              { "151 - 199 pieces": 1.05 },
+              { "200 - 299 pieces": 0.85 },
+              { "300 - 399 pieces": 0.8 },
+              { ">399 pieces": 0.75 }
+            ]
+          },
+          {
+            "name": "Square Brooch Pins",
+            "dimensions": "50mm by 50mm",
+            "price": [
+              { "20 - 29 pieces": 2.9 },
+              { "30 - 49 pieces": 2.8 },
+              { "50 - 75 pieces": 1.7 },
+              { "76 - 99 pieces": 1.65 },
+              { "100 - 150 pieces": 1.2 },
+              { "151 - 199 pieces": 1.1 },
+              { "200 - 299 pieces": 0.8 },
+              { "300 - 399 pieces": 0.85 },
+              { ">399 pieces": 0.8 }
+            ]
+          },
+          {
+            "name": "Rectangular Pins",
+            "dimensions": "70mm by 25mm",
+            "price": [
+              { "20 - 29 pieces": 2.9 },
+              { "30 - 49 pieces": 2.7 },
+              { "50 - 75 pieces": 1.7 },
+              { "76 - 99 pieces": 1.5 },
+              { "100 - 150 pieces": 1.25 },
+              { "151 - 199 pieces": 1.2 },
+              { "200 - 299 pieces": 1.15 },
+              { "300 - 399 pieces": 1.1 },
+              { ">399 pieces": 1.0 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      }
+    },
+    "nanyang_prints": {
+      "prints": {
+        "items": [
+          {
+            "name": "Banner",
+            "description": "Eye-catching banners for events and promotions.",
+            "sizes": [
+              {
+                "name": "SMALL",
+                "dimensions": ["90cm by 60cm", "120cm by 60cm", "90cm by 50cm"],
+                "lead_time": [
+                  "STANDARD - 18 WORKING DAYS",
+                  "EXPRESS - 12 WORKING DAYS",
+                  "SUPREME - 5 WORKING DAYS"
+                ],
+                "quantity": [
+                  "1 PIECE",
+                  "10 PIECES",
+                  "50 PIECES",
+                  "100 PIECES",
+                  "200 PIECES",
+                  "400 PIECES",
+                  "1000 PIECES",
+                  "2000 PIECES"
+                ],
+                "price": [
+                  { "1 piece": 45.0 },
+                  { "10 - 2000 pieces": "Contact Us For More Info!" }
+                ]
+              },
+              {
+                "name": "MEDIUM",
+                "dimensions": [
+                  "150cm by 90cm",
+                  "180cm by 70cm",
+                  "120cm by 80cm"
+                ],
+                "lead_time": [
+                  "STANDARD - 18 WORKING DAYS",
+                  "EXPRESS - 12 WORKING DAYS",
+                  "SUPREME - 5 WORKING DAYS"
+                ],
+                "quantity": [
+                  "1 PIECE",
+                  "10 PIECES",
+                  "50 PIECES",
+                  "100 PIECES",
+                  "200 PIECES",
+                  "400 PIECES",
+                  "1000 PIECES",
+                  "2000 PIECES"
+                ],
+                "price": [
+                  { "1 piece": 55.0 },
+                  { "10 - 2000 pieces": "Contact Us For More Info!" }
+                ]
+              },
+              {
+                "name": "LARGE",
+                "dimensions": [
+                  "240cm by 120cm",
+                  "150cm by 100cm",
+                  "300cm by 100cm"
+                ],
+                "lead_time": [
+                  "STANDARD - 18 WORKING DAYS",
+                  "EXPRESS - 12 WORKING DAYS",
+                  "SUPREME - 5 WORKING DAYS"
+                ],
+                "quantity": [
+                  "1 PIECE",
+                  "10 PIECES",
+                  "50 PIECES",
+                  "100 PIECES",
+                  "200 PIECES",
+                  "400 PIECES",
+                  "1000 PIECES",
+                  "2000 PIECES"
+                ],
+                "price": [
+                  { "1 piece": 80.0 },
+                  { "10 - 2000 pieces": "Contact Us For More Info!" }
+                ]
+              }
+            ]
+          },
+          {
+            "TODO": "Restructure the below json to follow the structure above"
+          },
+          {
+            "name": "Roll Up Banner",
+            "description": "Standard",
+            "dimensions": "80cm by 200cm",
+            "price": [
+              { "1 piece": 80.0 },
+              { "10 - 2000 pieces": "Contact Us For More Info!" }
+            ]
+          },
+          {
+            "name": "Roll Up Banner",
+            "description": "Large",
+            "dimensions": "120cm by 200cm",
+            "price": [
+              { "1 piece": 115.0 },
+              { "10 - 2000 pieces": "Contact Us For More Info!" }
+            ]
+          },
+          {
+            "name": "Bookmarks",
+            "description": "Non Magnetic",
+            "dimensions": "15cm by 5cm",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": 0.3 },
+              { "100 pieces": 0.25 },
+              { "200 pieces": 0.2 },
+              { "400 pieces": 0.15 },
+              { "1000 pieces": 0.09 },
+              { "2000 pieces": 0.07 }
+            ]
+          },
+          {
+            "name": "Bookmarks",
+            "description": "Non Magnetic",
+            "dimensions": "15cm by 5cm",
+            "remarks": "310g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": 0.35 },
+              { "100 pieces": 0.32 },
+              { "200 pieces": 0.2 },
+              { "400 pieces": 0.16 },
+              { "1000 pieces": 0.1 },
+              { "2000 pieces": 0.09 }
+            ]
+          },
+          {
+            "name": "Bookmarks",
+            "description": "Magnetic",
+            "dimensions": "12cm by 2cm",
+            "remarks": "10 packs per unit",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 12.2 },
+              { "50 pieces": 9.9 },
+              { "100 pieces": 9.2 },
+              { "200 pieces": 8.9 },
+              { "400 pieces": 8.6 },
+              { "1000 pieces": 8.4 },
+              { "2000 pieces": 8.2 }
+            ]
+          },
+          {
+            "name": "Flyers",
+            "description": "FRONT COLOUR",
+            "dimensions": "A3",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 1.15 },
+              { "50 pieces": 0.55 },
+              { "100 pieces": 0.53 },
+              { "200 pieces": 0.46 },
+              { "400 pieces": 0.375 },
+              { "1000 pieces": 0.36 },
+              { "2000 pieces": 0.32 }
+            ]
+          },
+          {
+            "name": "Flyers",
+            "description": "FRONT COLOUR",
+            "dimensions": "A4",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 1.0 },
+              { "50 pieces": 0.4 },
+              { "100 pieces": 0.3 },
+              { "200 pieces": 0.25 },
+              { "400 pieces": 0.2 },
+              { "1000 pieces": 0.19 },
+              { "2000 pieces": 0.15 }
+            ]
+          },
+          {
+            "name": "Flyers",
+            "description": "FRONT AND BACK COLOUR",
+            "dimensions": "A4",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 1.1 },
+              { "50 pieces": 0.5 },
+              { "100 pieces": 0.4 },
+              { "200 pieces": 0.34 },
+              { "400 pieces": 0.28 },
+              { "1000 pieces": 0.27 },
+              { "2000 pieces": 0.25 }
+            ]
+          },
+          {
+            "name": "Namecards",
+            "description": "FULL COLOUR BOTH SIDES",
+            "dimensions": "310G ART CARD",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 0.25 },
+              { "50 pieces": 0.13 },
+              { "100 pieces": 0.115 },
+              { "200 pieces": 0.11 },
+              { "400 pieces": 0.065 },
+              { "1000 pieces": 0.05 },
+              { "2000 pieces": 0.04 }
+            ]
+          },
+          {
+            "name": "Namecards",
+            "description": "FULL COLOUR BOTH SIDES",
+            "dimensions": "350G ART CARD",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 0.25 },
+              { "50 pieces": 0.13 },
+              { "100 pieces": 0.115 },
+              { "200 pieces": 0.11 },
+              { "400 pieces": 0.065 },
+              { "1000 pieces": 0.05 },
+              { "2000 pieces": 0.04 }
+            ]
+          },
+          {
+            "name": "Namecards",
+            "description": "FULL COLOUR FRONT",
+            "dimensions": "310G ART CARD",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 0.2 },
+              { "50 pieces": 0.125 },
+              { "100 pieces": 0.11 },
+              { "200 pieces": 0.08 },
+              { "400 pieces": 0.05 },
+              { "1000 pieces": 0.04 },
+              { "2000 pieces": 0.03 }
+            ]
+          },
+          {
+            "name": "Namecards",
+            "description": "FULL COLOUR FRONT",
+            "dimensions": "350G ART CARD",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 0.2 },
+              { "50 pieces": 0.125 },
+              { "100 pieces": 0.11 },
+              { "200 pieces": 0.08 },
+              { "400 pieces": 0.05 },
+              { "1000 pieces": 0.04 },
+              { "2000 pieces": 0.03 }
+            ]
+          },
+          {
+            "name": "Namecards",
+            "description": "OTHERS",
+            "type": [
+              "SPOT VARNISH",
+              "HOT STAMPED",
+              "SOFT TOUCH",
+              "FOLDED",
+              "TEXTURED",
+              "RECYCLED",
+              "METAL",
+              "TRANSLUCENT",
+              "DIE-CUT",
+              "QR CODE",
+              "NFC"
+            ],
+            "price": "Contact Us For More Info!"
+          },
+          {
+            "name": "Postcards",
+            "price": "Contact Us For More Info!"
+          },
+          {
+            "name": "Posters",
+            "description": "FULL COLOUR PRINT 1 SIDE",
+            "dimensions": "420mm by 594mm (A2 Size)",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 3.8 },
+              { "50 pieces": 1.6 },
+              { "100 pieces": 1.2 },
+              { "200 pieces": 1.0 },
+              { "400 pieces": 0.8 },
+              { "1000 pieces": 0.6 },
+              { "2000 pieces": 0.55 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "PAPER",
+            "dimensions": "UNDER 2cm by 2cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.13 },
+              { "200 pieces": 0.12 },
+              { "400 pieces": 0.096 },
+              { "1000 pieces": 0.08 },
+              { "2000 pieces": 0.07 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "PAPER",
+            "dimensions": "UNDER 5cm by 5cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.18 },
+              { "200 pieces": 0.15 },
+              { "400 pieces": 0.12 },
+              { "1000 pieces": 0.1 },
+              { "2000 pieces": 0.088 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "PAPER",
+            "dimensions": "UNDER 10cm by 10cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.23 },
+              { "200 pieces": 0.18 },
+              { "400 pieces": 0.16 },
+              { "1000 pieces": 0.13 },
+              { "2000 pieces": 0.11 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "PVC",
+            "dimensions": "UNDER 2cm by 2cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.26 },
+              { "200 pieces": 0.24 },
+              { "400 pieces": 0.192 },
+              { "1000 pieces": 0.16 },
+              { "2000 pieces": 0.141 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "PVC",
+            "dimensions": "UNDER 5cm by 5cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.36 },
+              { "200 pieces": 0.3 },
+              { "400 pieces": 0.24 },
+              { "1000 pieces": 0.2 },
+              { "2000 pieces": 0.176 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "PVC",
+            "dimensions": "UNDER 10cm by 10cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.46 },
+              { "200 pieces": 0.38 },
+              { "400 pieces": 0.32 },
+              { "1000 pieces": 0.26 },
+              { "2000 pieces": 0.22 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "TRANSPARENT",
+            "dimensions": "UNDER 2cm by 2cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.13 },
+              { "200 pieces": 0.12 },
+              { "400 pieces": 0.096 },
+              { "1000 pieces": 0.08 },
+              { "2000 pieces": 0.07 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "TRANSPARENT",
+            "dimensions": "UNDER 5cm by 5cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.18 },
+              { "200 pieces": 0.15 },
+              { "400 pieces": 0.12 },
+              { "1000 pieces": 0.1 },
+              { "2000 pieces": 0.088 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "TRANSPARENT",
+            "dimensions": "UNDER 10cm by 10cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": "-" },
+              { "50 pieces": "-" },
+              { "100 pieces": 0.23 },
+              { "200 pieces": 0.19 },
+              { "400 pieces": 0.16 },
+              { "1000 pieces": 0.13 },
+              { "2000 pieces": 0.11 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "UV DIRECT-TO-FILM",
+            "dimensions": "UNDER 2cm by 2cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 2.0 },
+              { "50 pieces": 0.7 },
+              { "100 pieces": 0.44 },
+              { "200 pieces": 0.41 },
+              { "400 pieces": 0.37 },
+              { "1000 pieces": 0.35 },
+              { "2000 pieces": 0.33 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "UV DIRECT-TO-FILM",
+            "dimensions": "UNDER 5cm by 5cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 2.0 },
+              { "50 pieces": 0.7 },
+              { "100 pieces": 0.44 },
+              { "200 pieces": 0.41 },
+              { "400 pieces": 0.37 },
+              { "1000 pieces": 0.35 },
+              { "2000 pieces": 0.33 }
+            ]
+          },
+          {
+            "name": "Stickers",
+            "description": "UV DIRECT-TO-FILM",
+            "dimensions": "UNDER 10cm by 10cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 3.0 },
+              { "50 pieces": 1.05 },
+              { "100 pieces": 0.66 },
+              { "200 pieces": 0.62 },
+              { "400 pieces": 0.56 },
+              { "1000 pieces": 0.53 },
+              { "2000 pieces": 0.5 }
+            ]
+          },
+          {
+            "name": "Vouchers",
+            "description": "128G ART PAPER",
+            "dimensions": "9cm by 5.4cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 0.9 },
+              { "50 pieces": 0.4 },
+              { "100 pieces": 0.37 },
+              { "200 pieces": 0.28 },
+              { "400 pieces": 0.2 },
+              { "1000 pieces": 0.14 },
+              { "2000 pieces": 0.12 }
+            ]
+          },
+          {
+            "name": "Vouchers",
+            "description": "260G ART PAPER",
+            "dimensions": "9cm by 5.4cm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 1.0 },
+              { "50 pieces": 0.5 },
+              { "100 pieces": 0.39 },
+              { "200 pieces": 0.29 },
+              { "400 pieces": 0.21 },
+              { "1000 pieces": 0.15 },
+              { "2000 pieces": 0.14 }
+            ]
+          },
+          {
+            "name": "Calenders",
+            "description": "TABLE CALENDER",
+            "dimensions": "250G IVORY CARD",
+            "price": "Contact Us For More Info!"
+          },
+          {
+            "name": "Calenders",
+            "description": "TABLE CALENDER",
+            "dimensions": "310G IVORY CARD",
+            "price": "Contact Us For More Info!"
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL SADLE STICH, 8 PAGES",
+            "dimensions": "A4 POTRAIT",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 2.7 },
+              { "50 pieces": 1.5 },
+              { "100 pieces": 1.3 },
+              { "200 pieces": 1.1 },
+              { "400 pieces": 1.0 },
+              { "1000 pieces": 0.9 },
+              { "2000 pieces": 0.85 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL SADLE STICH, 8 PAGES",
+            "dimensions": "A5 POTRAIT",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 2.2 },
+              { "50 pieces": 1.05 },
+              { "100 pieces": 0.85 },
+              { "200 pieces": 0.65 },
+              { "400 pieces": 0.55 },
+              { "1000 pieces": 0.45 },
+              { "2000 pieces": 0.4 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL SADLE STICH, 8 PAGES",
+            "dimensions": "A4 LANDSCAPE",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 3.4 },
+              { "50 pieces": 2.2 },
+              { "100 pieces": 2.0 },
+              { "200 pieces": 1.8 },
+              { "400 pieces": 1.7 },
+              { "1000 pieces": 1.6 },
+              { "2000 pieces": 1.55 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL SADLE STICH, 20 PAGES",
+            "dimensions": "A4 POTRAIT",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 4.5 },
+              { "50 pieces": 2.9 },
+              { "100 pieces": 2.3 },
+              { "200 pieces": 2.1 },
+              { "400 pieces": 1.9 },
+              { "1000 pieces": 1.75 },
+              { "2000 pieces": 1.7 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL SADLE STICH, 20 PAGES",
+            "dimensions": "A5 POTRAIT",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 3.7 },
+              { "50 pieces": 2.1 },
+              { "100 pieces": 1.5 },
+              { "200 pieces": 1.3 },
+              { "400 pieces": 1.1 },
+              { "1000 pieces": 0.95 },
+              { "2000 pieces": 0.9 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL SADLE STICH, 20 PAGES",
+            "dimensions": "A4 LANDSCAPE",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 4.7 },
+              { "50 pieces": 4.1 },
+              { "100 pieces": 3.55 },
+              { "200 pieces": 3.35 },
+              { "400 pieces": 3.15 },
+              { "1000 pieces": 3.05 },
+              { "2000 pieces": 3.0 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL ADHESIVE BOUND, 52 PAGES",
+            "dimensions": "A4 POTRAIT",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 8.0 },
+              { "50 pieces": 6.4 },
+              { "100 pieces": 5.5 },
+              { "200 pieces": 4.5 },
+              { "400 pieces": 4.0 },
+              { "1000 pieces": 3.8 },
+              { "2000 pieces": 3.7 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL ADHESIVE BOUND, 52 PAGES",
+            "dimensions": "A5 POTRAIT",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 6.0 },
+              { "50 pieces": 4.4 },
+              { "100 pieces": 3.5 },
+              { "200 pieces": 2.5 },
+              { "400 pieces": 3.0 },
+              { "1000 pieces": 2.8 },
+              { "2000 pieces": 2.7 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL ADHESIVE BOUND, 52 PAGES",
+            "dimensions": "A4 LANDSCAPE",
+            "remarks": "260g Art Card, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 10.5 },
+              { "50 pieces": 9.3 },
+              { "100 pieces": 8.2 },
+              { "200 pieces": 7.2 },
+              { "400 pieces": 6.7 },
+              { "1000 pieces": 6.5 },
+              { "2000 pieces": 6.4 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL WIRE-O BOUND, 24 PAGES",
+            "dimensions": "A4 POTRAIT",
+            "remarks": "157g Art Card Cover, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 7.0 },
+              { "50 pieces": 5.0 },
+              { "100 pieces": 4.3 },
+              { "200 pieces": 3.6 },
+              { "400 pieces": 3.0 },
+              { "1000 pieces": 2.8 },
+              { "2000 pieces": 2.7 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL WIRE-O BOUND, 24 PAGES",
+            "dimensions": "A5 POTRAIT",
+            "remarks": "157g Art Card Cover, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 5.2 },
+              { "50 pieces": 3.2 },
+              { "100 pieces": 2.8 },
+              { "200 pieces": 2.45 },
+              { "400 pieces": 2.0 },
+              { "1000 pieces": 1.8 },
+              { "2000 pieces": 1.7 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL WIRE-O BOUND, 24 PAGES",
+            "dimensions": "A4 LANDSCAPE",
+            "remarks": "157g Art Card Cover, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 8.8 },
+              { "50 pieces": 6.0 },
+              { "100 pieces": 5.3 },
+              { "200 pieces": 4.2 },
+              { "400 pieces": 4.0 },
+              { "1000 pieces": 3.6 },
+              { "2000 pieces": 3.45 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL WIRE-O BOUND, 50 PAGES",
+            "dimensions": "A4 POTRAIT",
+            "remarks": "157g Art Card Cover, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 10.0 },
+              { "50 pieces": 7.3 },
+              { "100 pieces": 6.3 },
+              { "200 pieces": 5.0 },
+              { "400 pieces": 4.6 },
+              { "1000 pieces": 4.4 },
+              { "2000 pieces": 4.25 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL WIRE-O BOUND, 50 PAGES",
+            "dimensions": "A5 POTRAIT",
+            "remarks": "157g Art Card Cover, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 6.6 },
+              { "50 pieces": 4.6 },
+              { "100 pieces": 3.9 },
+              { "200 pieces": 3.2 },
+              { "400 pieces": 2.8 },
+              { "1000 pieces": 2.6 },
+              { "2000 pieces": 2.35 }
+            ]
+          },
+          {
+            "name": "Booklets",
+            "description": "DIGITAL WIRE-O BOUND, 50 PAGES",
+            "dimensions": "A4 LANDSCAPE",
+            "remarks": "157g Art Card Cover, Full Colour Front & Back",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 14.0 },
+              { "50 pieces": 10.0 },
+              { "100 pieces": 8.0 },
+              { "200 pieces": 7.0 },
+              { "400 pieces": 6.6 },
+              { "1000 pieces": 6.4 },
+              { "2000 pieces": 6.25 }
+            ]
+          },
+          {
+            "name": "Corporate Folders",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 3.9 },
+              { "50 pieces": 2.0 },
+              { "100 pieces": 1.9 },
+              { "200 pieces": 1.8 },
+              { "400 pieces": 1.7 },
+              { "1000 pieces": 1.5 },
+              { "2000 pieces": 1.4 }
+            ]
+          },
+          {
+            "name": "Envelopes",
+            "description": "DIGITAL PRINT ANY COLOUR",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 1.0 },
+              { "50 pieces": 0.4 },
+              { "100 pieces": 0.33 },
+              { "200 pieces": 0.3 },
+              { "400 pieces": 0.28 },
+              { "1000 pieces": 0.24 },
+              { "2000 pieces": 0.23 }
+            ]
+          },
+          {
+            "name": "Red Packets",
+            "description": "157G ART PAPER",
+            "dimensions": "256mm by 216mm",
+            "price": [
+              { "1 piece": "-" },
+              { "10 pieces": 2.0 },
+              { "50 pieces": 1.39 },
+              { "100 pieces": 1.37 },
+              { "200 pieces": 1.0 },
+              { "400 pieces": 0.75 },
+              { "1000 pieces": 0.56 },
+              { "2000 pieces": 0.45 }
+            ]
+          }
+        ],
+        "file_upload_quantity": 1
+      }
+    }
+  }
+}
