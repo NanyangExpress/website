@@ -8,6 +8,18 @@ export default function AboutUs() {
                     body {
                         background-color: black; 
                     }
+                    /* Media queries for smaller screens */
+                    @media (max-width: 768px) {
+                        .title {
+                            font-size: 4xl; /* Smaller font size for smaller screens */
+                        }
+                        .description, .mission-text, .vision-text, .partner-text {
+                            font-size: text-md; /* Adjusted font size for smaller screens */
+                        }
+                        .mission-section, .vision-section {
+                            padding: 4; /* Reduced padding for smaller screens */
+                        }
+                    }
                 `}</style>
             <div className="container mx-auto my-5 px-8 bg-black rounded-md">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
