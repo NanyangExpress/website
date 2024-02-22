@@ -6,7 +6,7 @@ import Image from 'next/image';
 export default function ContactUs() {
   const [formData, setFormData] = useState({ firstName: "", lastName: "", email: "", message: "" })
 
-  const sendEmail = () => {
+  const sendEmail = (event: React.MouseEvent<HTMLButtonElement>) => {
     
       event.preventDefault()
       fetch('/api/mail', {
