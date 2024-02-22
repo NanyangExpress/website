@@ -15,7 +15,7 @@ export default function AboutUs() {
                     <div>
                         <h1 className="text-5xl font-bold mb-6 text-white mt-40"> {'About Us'} </h1>
                         <p className="text-sm md:text-md lg:text-lg mb-4 text-white">
-                            {'Nanyang XPress is a dynamic Singaporean venture leading the charge in AI-powered custom merchandise. We dare say that our catalog is a one stop destination for everything you need.'}
+                            Nanyang XPress is a dynamic Singaporean venture leading the charge in AI-powered custom merchandise. We dare say that our catalog is a one stop destination for everything you need.
                         </p>
                         {/* <p className="text-sm md:text-md lg:text-lg mb-4">
                             Affordable. 
@@ -40,7 +40,7 @@ export default function AboutUs() {
                     </div>
                     {/* Mission Section */}
                     <div className="bg-[#b67D43] p-8 rounded-md mt-8">
-                        <h2 className="text-5xl font-bold mb-0 text-center mt-2"> {'Innovation'} </h2>
+                        <h2 className="text-5xl font-bold mb-0 text-center mt-2">Innovation</h2>
                         <p className="text-sm md:text-md lg:text-lg mb-4 text-center ">
                             {'Quality Goods that are Cost Savings'}                      
                         </p>
@@ -48,9 +48,9 @@ export default function AboutUs() {
 
                     {/* Vision Section */}
                     <div className="bg-[#b67D43] p-8 rounded-md mt-8">
-                        <h2 className="text-5xl font-bold mb-0 text-center mt-2"> {'Customization'} </h2>
+                        <h2 className="text-5xl font-bold mb-0 text-center mt-2">Customization</h2>
                         <p className="text-sm md:text-md lg:text-lg mb-4 text-center ">
-                            {'Brand Your Own Merchandise'}                       
+                            Brand Your Own Merchandise                      
                         </p>
                     </div>
                 </div>
@@ -67,9 +67,9 @@ export default function AboutUs() {
                                 height={300}
                                 alt="Partner 1"
                             ></Image>
-                            <h3 className="text-xl font-bold my-4 text-white text-center"> {'Transparency & Clarity'} </h3>
+                            <h3 className="text-xl font-bold my-4 text-white text-center">Transparency & Clarity</h3>
                             <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
-                                {'We provide detailed descriptions and specifications of the logistics items available, ensuring that you have all the necessary information to make an informed decision. Additionally, we are committed to providing transparent pricing, breaking down the costs involved and any applicable fees, so there are no surprises or hidden charges.'}
+                                We provide detailed descriptions and specifications of the logistics items available, ensuring that you have all the necessary information to make an informed decision. Additionally, we are committed to providing transparent pricing, breaking down the costs involved and any applicable fees, so there are no surprises or hidden charges.
                             </p>
                         </div>
 
@@ -82,9 +82,9 @@ export default function AboutUs() {
                                 width={700}
                                 height={700}
                             />
-                            <h3 className="text-xl font-bold my-4 text-white text-center"> {'AI Focused'} </h3>
+                            <h3 className="text-xl font-bold my-4 text-white text-center"> AI Focused</h3>
                             <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
-                                {'At Nanyang Express, we have established partnerships with suppliers and service providers while using AI to replace human labour, allowing us to offer items at cost prices.'}
+                                At Nanyang Express, we have established partnerships with suppliers and service providers while using AI to replace human labour, allowing us to offer items at cost prices.
                             </p>
                         </div>
 
@@ -97,9 +97,9 @@ export default function AboutUs() {
                                 width={700}
                                 height={700}
                             />
-                            <h3 className="text-xl font-bold my-4 text-white text-center"> {'Customised Solutions'} </h3>
+                            <h3 className="text-xl font-bold my-4 text-white text-center">Customised Solutions</h3>
                             <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
-                                {'We understand that every event is unique, and thats why we offer customized logistics solutions. By tailoring our services to their needs, we ensure that clients only pay for what they need, eliminating unnecessary expenses and providing a hassle-free experience.'}
+                                We understand that every event is unique, and that&apos;s why we offer customized logistics solutions. By tailoring our services to their needs, we ensure that clients only pay for what they need, eliminating unnecessary expenses and providing a hassle-free experience.
                             </p> 
                         </div>
                     </div>
