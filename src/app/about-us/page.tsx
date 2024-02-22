@@ -98,9 +98,9 @@ export default function AboutUs() {
                                 height={700}
                             />
                             <h3 className="text-xl font-bold my-4 text-white text-center">Customised Solutions</h3>
-                            <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
+                            {/* <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
                                 We understand that every event is unique, and that's why we offer customized logistics solutions. By tailoring our services to their needs, we ensure that clients only pay for what they need, eliminating unnecessary expenses and providing a hassle-free experience.
-                            </p>
+                            </p> */}
                         </div>
                     </div>
                 </div>
