@@ -6,7 +6,7 @@ export default function AboutUs() {
         <>
             <style jsx global>{`
                     body {
-                        background-color: black; /* Set the background color of the body to black */
+                        background-color: black; 
                     }
                 `}</style>
             <div className="container mx-auto my-5 px-8 bg-black rounded-md">
