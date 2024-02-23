@@ -2,6 +2,16 @@
 import Image from 'next/image'
 
 export default function AboutUs() {
+    const handleDownloadClick = () => {
+        const fileUrl = '/Apparel Catalog.pdf'
+        const link = document.createElement('a')
+        link.href = fileUrl
+        link.download = 'Apparel Catalog.pdf'
+        document.body.appendChild(link)
+        link.click()
+        document.body.removeChild(link)
+    };    
+    
     return (
         <>
             <style jsx global>{`
@@ -21,7 +31,7 @@ export default function AboutUs() {
                         }
                     }
                 `}</style>
-            <div className="container mx-auto my-5 px-8 bg-black rounded-md">
+            <div className="container mx-auto my-3 px-8 bg-black rounded-md">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     {/* Left Column: Title and Description */}
                     <div>
@@ -38,6 +48,14 @@ export default function AboutUs() {
                         <p className="text-sm md:text-md lg:text-lg mb-4">
                             Quality.
                         </p> */}
+                        {/* Download Button */}
+                        <button
+                            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                            onClick={handleDownloadClick}
+                        >
+                            Download our Apparel Catalog
+                        </button>
+
                     </div>
 
                     {/* Right Column: Image */}
@@ -68,7 +86,7 @@ export default function AboutUs() {
                 </div>
                 {/* Your Trusted Partner Section */}
                 <div className="mt-8">
-                    <h2 className="text-3xl font-bold mb-6"> {'Your Trusted Partner'} </h2>
+                    <h2 className="text-3xl font-bold mb-6 text-white"> {'Your Trusted Partner'} </h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                         {/* Column 1 */}
                         <div>
