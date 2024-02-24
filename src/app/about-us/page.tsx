@@ -61,20 +61,37 @@ export default function AboutUs() {
                         {/* Download Button */}
                         <div className = "mt-4 flex gap-2">
                             <a
-                                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-decoration-underline cursor-pointer"
+                                className="download-link"
                                 onClick={handleDownloadApparelClick}
                             >
                                 Download our Apparel Catalog
                             </a>
                             
                             <a
-                                className="bg-green-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-decoration-underline cursor-pointer"
+                                className="download-link"
                                 onClick={handleDownloadCustomerClick}
                             >
                                 Download our Customer Catalog
                             </a>
                         </div>
                     </div>
+                    
+                    <style jsx>{`
+                        .download-link {
+                            background-color: #3490dc;
+                            color: #ffffff;
+                            font-weight: bold;
+                            padding: 0.5rem 1rem;
+                            border-radius: 0.25rem;
+                            cursor: pointer;
+                            text-decoration: underline; /* Added underline style */
+                        }
+
+                        .download-link:hover {
+                            background-color: #276799;
+                        }
+                    `}</style>
+                    
 
                     {/* Right Column: Image */}
                     <div className="relative h-64 md:h-auto mt-20">
