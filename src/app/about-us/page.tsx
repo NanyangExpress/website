@@ -44,7 +44,6 @@ export default function AboutUs() {
             
                 <style jsx>{`
                         .download-link {
-                            background-color: #3490dc;
                             color: #ffffff;
                             font-weight: bold;
                             padding: 0.5rem 1rem;
