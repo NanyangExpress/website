@@ -2,6 +2,15 @@
 import Image from 'next/image'
 
 export default function AboutUs() {
+    const downloadFile = (fileURL, fileName) => {
+        const link = document.createElement('a')
+        link.href = fileUrl
+        link.download = filename
+        document.body.appendChild(link)
+        link.click()
+        document.body.removeChild(link)
+    };
+    
     const handleDownloadApparelClick = () => {
         const fileUrl = '/Apparel Catalog.pdf'
         downloadFile(fileUrl, 'Apparel Catalog.pdf')
@@ -12,15 +21,7 @@ export default function AboutUs() {
         downloadFile(fileUrl, 'Customer Catalog.pdf')
     }
     
-    const handleDownloadClick = () => {
-        const link = document.createElement('a')
-        link.href = fileUrl
-        link.download = filename
-        document.body.appendChild(link)
-        link.click()
-        document.body.removeChild(link)
-    };    
-    
+   
     return (
         <>
             <style jsx global>{`
