@@ -41,6 +41,24 @@ export default function AboutUs() {
                         }
                     }
                 `}</style>
+            
+                <style jsx>{`
+                        .download-link {
+                            background-color: #3490dc;
+                            color: #ffffff;
+                            font-weight: bold;
+                            padding: 0.5rem 1rem;
+                            border-radius: 0.25rem;
+                            cursor: pointer;
+                            text-decoration: underline; /* Added underline style */
+                            margin-right:1rem;
+                        }
+
+                        .download-link:hover {
+                            background-color: #276799;
+                        }
+                    `}</style>
+            
             <div className="container mx-auto my-3 px-8 bg-black rounded-md">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     {/* Left Column: Title and Description */}
@@ -75,22 +93,7 @@ export default function AboutUs() {
                             </a>
                         </div>
                     </div>
-                    
-                    <style jsx>{`
-                        .download-link {
-                            background-color: #3490dc;
-                            color: #ffffff;
-                            font-weight: bold;
-                            padding: 0.5rem 1rem;
-                            border-radius: 0.25rem;
-                            cursor: pointer;
-                            text-decoration: underline; /* Added underline style */
-                        }
-
-                        .download-link:hover {
-                            background-color: #276799;
-                        }
-                    `}</style>
+                
                     
 
                     {/* Right Column: Image */}
