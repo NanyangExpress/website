@@ -2,7 +2,7 @@
 import Image from 'next/image'
 
 export default function AboutUs() {
-    const downloadFile = (fileURL, fileName) => {
+    const downloadFile = (fileURL: string, fileName: string) => {
         const link = document.createElement('a')
         link.href = fileUrl
         link.download = filename
