@@ -59,19 +59,21 @@ export default function AboutUs() {
                             Quality.
                         </p> */}
                         {/* Download Button */}
-                        <button
-                            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
-                            onClick={handleDownloadApparelClick}
-                        >
-                            Download our Apparel Catalog
-                        </button>
-                        <button
-                            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
-                            onClick={handleDownloadCustomerClick}
-                        >
-                            Download our Customer Catalog
-                        </button>
-
+                        <div className = "mt-4">
+                            <button
+                                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                                onClick={handleDownloadApparelClick}
+                            >
+                                Download our Apparel Catalog
+                            </button>
+                            
+                            <button
+                                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                                onClick={handleDownloadCustomerClick}
+                            >
+                                Download our Customer Catalog
+                            </button>
+                        </div>
                     </div>
 
                     {/* Right Column: Image */}
