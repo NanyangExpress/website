@@ -51,7 +51,7 @@ export default function AboutUs() {
                             cursor: pointer;
                             text-decoration: underline; /* Added underline style */
                             margin-right:1rem;
-                            fonr-size: 6px;
+                            fonr-size: 14px;
                         }
 
                         .download-link:hover {
