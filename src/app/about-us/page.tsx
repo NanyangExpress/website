@@ -62,7 +62,7 @@ export default function AboutUs() {
                     <div className="relative h-64 md:h-auto mt-20">
                         <Image
                             className="w-full h-full object-cover rounded-md"
-                            src="/assets/about-us-1.png"
+                            src="/assets/about-us-2.jpg"
                             alt="About Us Image"
                             width={700}
                             height={700}
