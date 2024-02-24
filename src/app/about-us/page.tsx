@@ -60,19 +60,19 @@ export default function AboutUs() {
                         </p> */}
                         {/* Download Button */}
                         <div className = "mt-4 flex gap-2">
-                            <button
-                                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                            <a
+                                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-decoration-underline cursor-pointer"
                                 onClick={handleDownloadApparelClick}
                             >
                                 Download our Apparel Catalog
-                            </button>
+                            </a>
                             
-                            <button
-                                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                            <a
+                                className="bg-green-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded text-decoration-underline cursor-pointer"
                                 onClick={handleDownloadCustomerClick}
                             >
                                 Download our Customer Catalog
-                            </button>
+                            </a>
                         </div>
                     </div>
 
