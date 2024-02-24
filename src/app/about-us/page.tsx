@@ -82,14 +82,14 @@ export default function AboutUs() {
                                 className="download-link"
                                 onClick={handleDownloadApparelClick}
                             >
-                                Download our Apparel Catalog
+                                Download Apparel Catalog
                             </a>
                             
                             <a
                                 className="download-link"
                                 onClick={handleDownloadCustomerClick}
                             >
-                                Download our Customer Catalog
+                                Download Customer Catalog
                             </a>
                         </div>
                     </div>
