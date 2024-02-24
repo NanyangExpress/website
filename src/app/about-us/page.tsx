@@ -2,11 +2,20 @@
 import Image from 'next/image'
 
 export default function AboutUs() {
-    const handleDownloadClick = () => {
+    const handleDownloadApparelClick = () => {
         const fileUrl = '/Apparel Catalog.pdf'
+        downloadFile(fileUrl, 'Apparel Catalog.pdf')
+    }
+
+    const handleDownloadCustomerClick = () => {
+        const fileUrl = '/Customer Catalog.pdf'
+        downloadFile(fileUrl, 'Customer Catalog.pdf')
+    }
+    
+    const handleDownloadClick = () => {
         const link = document.createElement('a')
         link.href = fileUrl
-        link.download = 'Apparel Catalog.pdf'
+        link.download = filename
         document.body.appendChild(link)
         link.click()
         document.body.removeChild(link)
@@ -51,9 +60,15 @@ export default function AboutUs() {
                         {/* Download Button */}
                         <button
                             className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
-                            onClick={handleDownloadClick}
+                            onClick={handleDownloadApparelClick}
                         >
                             Download our Apparel Catalog
+                        </button>
+                        <button
+                            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                            onClick={handleDownloadCustomerClick}
+                        >
+                            Download our Customer Catalog
                         </button>
 
                     </div>
