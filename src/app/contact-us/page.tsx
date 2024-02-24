@@ -49,7 +49,7 @@ export default function ContactUs() {
           <p className="text-3xl lg:text-6xl font-bold text-center lg:text-left mb-4 mt-20" style={{ color: '#ffffff' }}>Get In Touch</p>
           <div className="text-md text-slate-500 text-center lg:text-lg lg:text-left mb-8 text-white">
             <p>Have an enquiry or some feedback for us?</p>
-            <p>Fill up the form below to contact us</p>
+            <p>Fill up the form below to contact us or email us at enquiries@nanyangexpress.org</p>
           </div>
           <form className="w-full mx-auto lg:mx-0">
             <div className="flex flex-col">
