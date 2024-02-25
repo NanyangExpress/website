@@ -12,7 +12,7 @@ export default function AboutUs() {
     };
     
     const handleDownloadApparelClick = () => {
-        const fileUrl = '/Apparel Catalog.pdf'
+        const fileUrl = '/Apparel Catalog Updated.pdf'
         downloadFile(fileUrl, 'Apparel Catalog.pdf')
     }
 
