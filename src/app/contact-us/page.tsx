@@ -23,7 +23,7 @@ export default function ContactUs() {
     
   };
 
-  const handleChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = event.target
     setFormData(values => ({ ...values, [name]: value }))
   }
