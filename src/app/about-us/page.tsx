@@ -1,26 +1,5 @@
 'use client'
 import Image from 'next/image'
-
-export default function AboutUs() {
-    const downloadFile = (fileUrl: string, fileName: string) => {
-        const link = document.createElement('a')
-        link.href = fileUrl
-        link.download = fileName
-        document.body.appendChild(link)
-        link.click()
-        document.body.removeChild(link)
-    };
-    
-    const handleDownloadApparelClick = () => {
-        const fileUrl = '/Apparel Catalog Updated.pdf'
-        downloadFile(fileUrl, 'Apparel Catalog.pdf')
-    }
-
-    const handleDownloadCustomerClick = () => {
-        const fileUrl = '/Customer Catalog.pdf'
-        downloadFile(fileUrl, 'Customer Catalog.pdf')
-    }
-    
    
     return (
         <>
@@ -77,21 +56,7 @@ export default function AboutUs() {
                             Quality.
                         </p> */}
                         {/* Download Button */}
-                        <div className = "mt-4 flex gap-2">
-                            <a
-                                className="download-link"
-                                onClick={handleDownloadApparelClick}
-                            >
-                                Download Apparel Catalog
-                            </a>
-                            
-                            <a
-                                className="download-link"
-                                onClick={handleDownloadCustomerClick}
-                            >
-                                Download Customer Catalog
-                            </a>
-                        </div>
+    
                     </div>
                 
                     
@@ -110,7 +75,7 @@ export default function AboutUs() {
                     <div className="bg-[#b67D43] p-8 rounded-md mt-8">
                         <h2 className="text-5xl font-bold mb-0 text-center mt-2">Innovation</h2>
                         <p className="text-sm md:text-md lg:text-lg mb-4 text-center ">
-                            {'Quality Goods that are Cost Savings'}                      
+                            Quality Goods that are Cost Savings                   
                         </p>
                     </div>
 
@@ -167,7 +132,7 @@ export default function AboutUs() {
                             />
                             <h3 className="text-xl font-bold my-4 text-white text-center">Customised Solutions</h3>
                             <p className="text-sm md:text-md lg:text-lg mb-4 text-white text-justify">
-                                We understand that every event is unique, and that&apos;s why we offer customized logistics solutions. By tailoring our services to their needs, we ensure that clients only pay for what they need, eliminating unnecessary expenses and providing a hassle-free experience.
+                                We understand that every event is unique, and that's why we offer customized logistics solutions. By tailoring our services to their needs, we ensure that clients only pay for what they need, eliminating unnecessary expenses and providing a hassle-free experience.
                             </p> 
                         </div>
                     </div>
